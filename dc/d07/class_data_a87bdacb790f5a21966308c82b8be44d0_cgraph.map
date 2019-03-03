@@ -1,0 +1,18 @@
+<map id="Data::getDim" name="Data::getDim">
+<area shape="rect" id="node2" href="$dc/d07/class_data.html#a63a36fcbe42e0956d602f11af0d2009e" title="Returns a shared pointer to the vector of Points of the sample. " alt="" coords="202,5,315,32"/>
+<area shape="rect" id="node3" href="$dc/d07/class_data.html#a482efc1083d4871758ddd05b11bb90ea" title="Returns a shared pointer to the point with the given index. " alt="" coords="205,56,312,83"/>
+<area shape="rect" id="node4" href="$dc/d07/class_data.html#a7ca6dfe5013024d75f3e13e42caa96f4" title="Returns the features names. " alt="" coords="174,107,343,133"/>
+<area shape="rect" id="node5" href="$dc/d07/class_data.html#a7ca936cd8cbde912283f5feee441717a" title="Returns a class with the statistics info of the sample. " alt="" coords="193,157,324,184"/>
+<area shape="rect" id="node6" href="$dc/d07/class_data.html#a9f64e56cea5be1f29eea9319716a3ed1" title="Returns the vector of indexes. " alt="" coords="205,208,313,235"/>
+<area shape="rect" id="node7" href="$dc/d07/class_data.html#a627911f72bc1ccc3a096b531772ccb8c" title="Return the number of positive points. " alt="" coords="155,259,362,285"/>
+<area shape="rect" id="node8" href="$dc/d07/class_data.html#a9494572e8a2bc92fb4c10087cf35e4be" title="Return the number of negative points. " alt="" coords="153,309,364,336"/>
+<area shape="rect" id="node9" href="$dc/d07/class_data.html#ab13d49c84377160673c5c38cb15d18ba" title="Return the time multiplier. " alt="" coords="190,360,327,387"/>
+<area shape="rect" id="node10" href="$dc/d07/class_data.html#ade1a5caf2f463a894e1d348f728b56cf" title="setPoint Set the point in a position of the data. " alt="" coords="205,411,312,437"/>
+<area shape="rect" id="node11" href="$dc/d07/class_data.html#a3b22a1e56ab54ca6ecd84bef0ad968cc" title="setFeaturesNames Set the name of the features of the data. " alt="" coords="174,461,343,488"/>
+<area shape="rect" id="node12" href="$dc/d07/class_data.html#a3e03ebfa95d7d90d4ee3b024af7b18de" title="Set the index vector for the data. " alt="" coords="205,512,313,539"/>
+<area shape="rect" id="node13" href="$dc/d07/class_data.html#ad6e602802e593e4700b3746de55f890b" title="setDim Set the dimension of the points. " alt="" coords="209,563,309,589"/>
+<area shape="rect" id="node14" href="$dc/d07/class_data.html#a6d29f9fc923c3f7c258b93330130f056" title="setClasses Set the classes of the dataset. " alt="" coords="197,613,321,640"/>
+<area shape="rect" id="node15" href="$dc/d07/class_data.html#a1d15d02eb38c6fb9ebf5d29ecafe7eee" title="Load a dataset from a file. " alt="" coords="217,664,300,691"/>
+<area shape="rect" id="node16" href="$dc/d07/class_data.html#a1f0bf8cc73e43cd6915289706abc46b2" title="write Write the data to a file with the given extention. " alt="" coords="215,715,302,741"/>
+<area shape="rect" id="node17" href="$dc/d07/class_data.html#a8b96bf083edf16dd41031c254d32e143" title="Returns if there&#39;s a dataset loaded. " alt="" coords="205,765,312,792"/>
+</map>

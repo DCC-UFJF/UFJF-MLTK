@@ -1,5 +1,0 @@
-#1 27/12/2017 <Long term> - There's something very wrong with IMAp, until now I don't know which is the problem, in the first execution of the IMApFixedMargin, everything is fine, but then nothing is as meant to be. 
-By my observations, the problem is related with the lambda computation or the variables involved.
-
-#2 27/12/2017 <Long term> - I need to test the viability of the use of smart pointers in the program, at first it solved the problem of memory consumption caused when the validation of the algorithms ran, but the memory consumption with a single dataset is almost the same of using static variables.
-#2 - Smart pointers are viable.

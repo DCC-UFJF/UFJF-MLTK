@@ -1,0 +1,5 @@
+<map id="Data::setPoint" name="Data::setPoint">
+<area shape="rect" id="node2" href="$dc/d07/class_data.html#a87bdacb790f5a21966308c82b8be44d0" title="Returns the dimension of the dataset. " alt="" coords="192,5,292,32"/>
+<area shape="rect" id="node4" href="$dd/da7/class_validation.html#a1e9580697a164d4bfbe721f2f1589c57" title="Divide the samples in training and test. " alt="" coords="160,56,324,83"/>
+<area shape="rect" id="node3" href="$d6/d26/class_a_o_s.html#a855c463e121f6b190f42ea1950c6d2dd" title="Function that executes the feature selection phase. " alt="" coords="372,5,516,32"/>
+</map>

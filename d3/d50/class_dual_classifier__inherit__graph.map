@@ -1,0 +1,8 @@
+<map id="DualClassifier&lt; T &gt;" name="DualClassifier&lt; T &gt;">
+<area shape="rect" id="node4" href="$d6/da4/class_i_m_a_dual.html" title="IMADual\&lt; T \&gt;" alt="" coords="5,229,111,256"/>
+<area shape="rect" id="node5" href="$d7/db4/class_perceptron_dual.html" title="Wrapper for the implementation of the Perceptron dual algorithm. " alt="" coords="135,229,279,256"/>
+<area shape="rect" id="node6" href="$d6/d4e/class_perceptron_fixed_margin_dual.html" title="Wrapper for the implementation of the Perceptron dual with fixed margin algorithm. " alt="" coords="304,229,519,256"/>
+<area shape="rect" id="node7" href="$d8/de4/class_s_m_o.html" title="SMO\&lt; T \&gt;" alt="" coords="543,229,627,256"/>
+<area shape="rect" id="node2" href="$d6/dba/class_classifier.html" title="Classifier\&lt; T \&gt;" alt="" coords="254,80,363,107"/>
+<area shape="rect" id="node3" href="$d9/d2a/class_learner.html" title="Learner\&lt; T \&gt;" alt="" coords="260,5,357,32"/>
+</map>

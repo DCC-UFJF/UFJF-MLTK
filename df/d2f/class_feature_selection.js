@@ -1,0 +1,26 @@
+var class_feature_selection =
+[
+    [ "selectFeatures", "df/d2f/class_feature_selection.html#a0ddf4542498dd85ecc0b8dadbc9d136b", null ],
+    [ "setClassifier", "df/d2f/class_feature_selection.html#aeb59d20a8711f4894f3773e78bd9b18e", null ],
+    [ "setCrossValidation", "df/d2f/class_feature_selection.html#a5a46969cc8ae83c7281dd71eb5bf3876", null ],
+    [ "setDepth", "df/d2f/class_feature_selection.html#ac3e6bd57a2883295c5be6f53f739a184", null ],
+    [ "setFinalDimension", "df/d2f/class_feature_selection.html#a2754140eede1f7689967e5361417499c", null ],
+    [ "setJump", "df/d2f/class_feature_selection.html#a1c639f188436bb7594bca5985d6421d0", null ],
+    [ "setSamples", "df/d2f/class_feature_selection.html#ac436e6b71800ab1156440c77106ca68d", null ],
+    [ "setSkip", "df/d2f/class_feature_selection.html#a773f89aad5b7158ca81e43da5a276918", null ],
+    [ "setVerbose", "df/d2f/class_feature_selection.html#a62033d3b22ae88f45be6458116d9d304", null ],
+    [ "classifier", "df/d2f/class_feature_selection.html#aac04d4fa957487262829637876665934", null ],
+    [ "cv", "df/d2f/class_feature_selection.html#a2898e23abf3d2155c94d29823474c336", null ],
+    [ "depth", "df/d2f/class_feature_selection.html#a97b36bdc01446e1a6ceaac46046bd06e", null ],
+    [ "final_dim", "df/d2f/class_feature_selection.html#a3dfd3eaf77946767f8c876020cb9ed54", null ],
+    [ "jump", "df/d2f/class_feature_selection.html#ae90bf3293a6aa1a236409d263564363b", null ],
+    [ "leave_one_out", "df/d2f/class_feature_selection.html#ae6a8f3c4e5359e418f06c37bbe5f0ee8", null ],
+    [ "MAX_BREATH", "df/d2f/class_feature_selection.html#a77002ab25336a16dbbace6b8afcb76b1", null ],
+    [ "MAX_DEPTH", "df/d2f/class_feature_selection.html#a10e73a5516dd42635a932a44de03bfb8", null ],
+    [ "NUM_ERROR_EPS", "df/d2f/class_feature_selection.html#ab05ba3be9c292b10b1116e354b181233", null ],
+    [ "samples", "df/d2f/class_feature_selection.html#a428e8264a956c55b02fb9437953a7880", null ],
+    [ "skip", "df/d2f/class_feature_selection.html#a6b6fd8245fa5ae5e2587fa22aa9809ca", null ],
+    [ "solution", "df/d2f/class_feature_selection.html#ae974d2a985a2d4409e5863e425c372fe", null ],
+    [ "timer", "df/d2f/class_feature_selection.html#a80781a87519a53646c2bc8c5cd603672", null ],
+    [ "verbose", "df/d2f/class_feature_selection.html#af809cef8f77afb941d4f8a76c5970fd7", null ]
+];

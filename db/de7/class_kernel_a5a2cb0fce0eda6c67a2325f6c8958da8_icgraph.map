@@ -1,0 +1,7 @@
+<map id="Kernel::getType" name="Kernel::getType">
+<area shape="rect" id="node2" href="$d1/dbb/class_dual_classifier.html#ae15bdcaa9b46e1084aa2df7170a0217f" title="Get the type of the kernel. " alt="" coords="168,56,364,83"/>
+<area shape="rect" id="node3" href="$dd/da7/class_validation.html#a1a5825e2dd051a72aaffd423a0df55f1" title="Executes the k. " alt="" coords="424,31,543,57"/>
+<area shape="rect" id="node6" href="$dd/da7/class_validation.html#aa7f79be36229a955f67a29556152f373" title="Executes the validation with several executions of the k fold algorithm. " alt="" coords="412,81,555,108"/>
+<area shape="rect" id="node4" href="$d6/d26/class_a_o_s.html#a855c463e121f6b190f42ea1950c6d2dd" title="Function that executes the feature selection phase. " alt="" coords="603,5,747,32"/>
+<area shape="rect" id="node5" href="$d8/dd3/class_r_f_e.html#a70cacdcf90cc1f6921f39fc58f03a63f" title="Function that executes the feature selection phase. " alt="" coords="603,56,746,83"/>
+</map>

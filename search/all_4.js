@@ -1,0 +1,6 @@
+var searchData=
+[
+  ['elapsed',['Elapsed',['../d8/d08/class_timer.html#a23ceb8d8848ca88a46a5df2b07e27516',1,'Timer']]],
+  ['eps',['EPS',['../d9/d2a/class_learner.html#ad314cec3c154c884d7c49e0f85d7a51d',1,'Learner']]],
+  ['evaluate',['evaluate',['../dd/de8/class_i_m_ap.html#a41b0739cdc486e3f21e7927f1ad429a8',1,'IMAp::evaluate()'],['../df/db6/class_i_m_ap_fixed_margin.html#a909eb58c78c20780494598b478f8846f',1,'IMApFixedMargin::evaluate()'],['../d6/da4/class_i_m_a_dual.html#af67dfc75554d055cfdf761ee940243d7',1,'IMADual::evaluate()'],['../d9/d2a/class_learner.html#a670e6615c6bad54ba2139a3a3e718b98',1,'Learner::evaluate()'],['../d8/d34/class_perceptron_primal.html#a547d98d8d61480d5bc44fe759c3a8e28',1,'PerceptronPrimal::evaluate()'],['../d5/d40/class_perceptron_fixed_margin_primal.html#a5bfe0f03533361017b594c3fe67f0905',1,'PerceptronFixedMarginPrimal::evaluate()'],['../d7/db4/class_perceptron_dual.html#afae65908732e5f011be1d384387c71fe',1,'PerceptronDual::evaluate()'],['../d6/d4e/class_perceptron_fixed_margin_dual.html#acafabadf6d2552fde0bfb32f0344c6e3',1,'PerceptronFixedMarginDual::evaluate()'],['../d8/de4/class_s_m_o.html#a8de3c4c54e1ed13285477f142c0eac46',1,'SMO::evaluate()']]]
+];

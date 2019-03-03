@@ -1,0 +1,6 @@
+<map id="Validation::validation" name="Validation::validation">
+<area shape="rect" id="node2" href="$d1/dbb/class_dual_classifier.html#ae15bdcaa9b46e1084aa2df7170a0217f" title="Get the type of the kernel. " alt="" coords="196,5,392,32"/>
+<area shape="rect" id="node4" href="$d1/dbb/class_dual_classifier.html#ad5cc383587a3388bfc370879d76b8cf6" title="Get the parameter of the kernel. " alt="" coords="211,57,377,98"/>
+<area shape="rect" id="node3" href="$db/de7/class_kernel.html#a5a2cb0fce0eda6c67a2325f6c8958da8" title="getType Returns the kernel type used in the kernel computations. " alt="" coords="444,5,559,32"/>
+<area shape="rect" id="node5" href="$db/de7/class_kernel.html#a838e2cc5018fa702e59c52a3bf8ef813" title="getParam Returns the kernel parameter used in the kernel computations. " alt="" coords="440,64,563,91"/>
+</map>

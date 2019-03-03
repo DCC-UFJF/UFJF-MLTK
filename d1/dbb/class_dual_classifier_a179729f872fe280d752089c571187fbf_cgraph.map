@@ -1,0 +1,5 @@
+<map id="DualClassifier::getDualWeight" name="DualClassifier::getDualWeight">
+<area shape="rect" id="node2" href="$db/de7/class_kernel.html#a126dcd1fa57f69af243ca678170288b6" title="compute Compute the H matrix with the computed kernel matrix and given samples. " alt="" coords="285,5,448,32"/>
+<area shape="rect" id="node3" href="$db/de7/class_kernel.html#a32f8639c734692862062817efaeead64" title="compute Compute the H matrix without a dimension, with the computed kernel matrix and given samples..." alt="" coords="252,56,481,83"/>
+<area shape="rect" id="node4" href="$db/de7/class_kernel.html#aae7563927691a73b6f20b0194087c035" title="function Compute the kernel function between two points without a dimension. " alt="" coords="529,56,712,83"/>
+</map>

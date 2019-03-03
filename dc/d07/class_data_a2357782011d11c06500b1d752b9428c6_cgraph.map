@@ -1,0 +1,4 @@
+<map id="Data::insertPoint" name="Data::insertPoint">
+<area shape="rect" id="node2" href="$dc/d07/class_data.html#a310d4da4294cb3576a2faf0809c91b1e" title="Returns the size of the dataset. " alt="" coords="175,5,278,32"/>
+<area shape="rect" id="node3" href="$dc/d07/class_data.html#a482efc1083d4871758ddd05b11bb90ea" title="Returns a shared pointer to the point with the given index. " alt="" coords="173,56,280,83"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Gnuplot::plot_xy" name="Gnuplot::plot_xy">
+<area shape="rect" id="node2" href="$d3/d27/class_gnuplot.html#a10e1fc7344bd726faa2d70cd5ced5e5e" title="Gnuplot::plotfile_xy" alt="" coords="171,5,305,32"/>
+<area shape="rect" id="node3" href="$d3/d27/class_gnuplot.html#a07607803ede8dd5416906df0a1924fc5" title="send a command to gnuplot " alt="" coords="353,5,453,32"/>
+<area shape="rect" id="node4" href="$d3/d27/class_gnuplot.html#a356d2faaa79f08d13fec9718b776b28d" title="sets terminal type to terminal_std " alt="" coords="501,5,660,32"/>
+</map>

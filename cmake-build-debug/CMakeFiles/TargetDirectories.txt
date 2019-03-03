@@ -1,3 +1,0 @@
-/home/mateus558/Repositories/Machine-Learning-Toolkit/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/mateus558/Repositories/Machine-Learning-Toolkit/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/mateus558/Repositories/Machine-Learning-Toolkit/cmake-build-debug/CMakeFiles/UFJF-MLTK.dir

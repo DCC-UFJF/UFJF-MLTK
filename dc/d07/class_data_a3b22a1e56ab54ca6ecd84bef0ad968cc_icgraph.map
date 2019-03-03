@@ -1,0 +1,6 @@
+<map id="Data::setFeaturesNames" name="Data::setFeaturesNames">
+<area shape="rect" id="node2" href="$dc/d07/class_data.html#a87bdacb790f5a21966308c82b8be44d0" title="Returns the dimension of the dataset. " alt="" coords="243,5,343,32"/>
+<area shape="rect" id="node4" href="$dc/d07/class_data.html#adfd307ae8437b7b2da4372eb604a2c43" title="insertFeatures Returns Data object with only features in array. " alt="" coords="223,56,364,83"/>
+<area shape="rect" id="node3" href="$d6/d26/class_a_o_s.html#a855c463e121f6b190f42ea1950c6d2dd" title="Function that executes the feature selection phase. " alt="" coords="412,5,556,32"/>
+<area shape="rect" id="node5" href="$dc/d07/class_data.html#a6b91ca6585e8638f1b359a6f2bb827d7" title="Returns if the dataset is normalized. " alt="" coords="417,56,551,83"/>
+</map>

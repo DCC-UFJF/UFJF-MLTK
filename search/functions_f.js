@@ -1,0 +1,5 @@
+var searchData=
+[
+  ['timer',['Timer',['../d8/d08/class_timer.html#a5f16e8da27d2a5a5242dead46de05d97',1,'Timer']]],
+  ['train',['train',['../dd/de8/class_i_m_ap.html#aa8bf6b0d21a76d388fe81ee516b627e4',1,'IMAp::train()'],['../df/db6/class_i_m_ap_fixed_margin.html#a4d99742be5fe5a21b8ae6f99547a98c8',1,'IMApFixedMargin::train()'],['../d6/da4/class_i_m_a_dual.html#aff820af6454ceeef4d23af48476d7218',1,'IMADual::train()'],['../d9/d2a/class_learner.html#a405ff5ebcd1d34f1d0bd7e1acc1d7165',1,'Learner::train()'],['../d8/d34/class_perceptron_primal.html#ac6cafe7a8fabfb607761024ce60a6861',1,'PerceptronPrimal::train()'],['../d5/d40/class_perceptron_fixed_margin_primal.html#a6d4a14b9f39a4fef45de201edfeabce0',1,'PerceptronFixedMarginPrimal::train()'],['../d7/db4/class_perceptron_dual.html#ac5e6aac8184fdf8f9d39d8d183d49190',1,'PerceptronDual::train()'],['../d6/d4e/class_perceptron_fixed_margin_dual.html#a58a5acdd6afaedff53fab23779f01486',1,'PerceptronFixedMarginDual::train()'],['../d8/de4/class_s_m_o.html#af786da7154d3025293875a43faca8819',1,'SMO::train()']]]
+];
