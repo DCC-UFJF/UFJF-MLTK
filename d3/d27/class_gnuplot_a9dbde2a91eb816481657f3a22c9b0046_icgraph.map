@@ -1,4 +1,5 @@
 <map id="Gnuplot::plotfile_xyz" name="Gnuplot::plotfile_xyz">
-<area shape="rect" id="node2" href="$d3/d27/class_gnuplot.html#af89cb366fa7d09ffc1c351516ae54df5" title="from std::vector " alt="" coords="195,5,319,32"/>
-<area shape="rect" id="node3" href="$d3/d27/class_gnuplot.html#a14191e89154f2716608f6907975cc012" title="plot triples std::vector at one go " alt="" coords="367,5,487,32"/>
+<area shape="rect" id="node1" title=" " alt="" coords="339,5,473,32"/>
+<area shape="rect" id="node2" href="$d3/d27/class_gnuplot.html#af89cb366fa7d09ffc1c351516ae54df5" title="from std::vector" alt="" coords="172,5,291,32"/>
+<area shape="rect" id="node3" href="$d3/d27/class_gnuplot.html#a14191e89154f2716608f6907975cc012" title="plot triples std::vector at one go" alt="" coords="5,5,124,32"/>
 </map>

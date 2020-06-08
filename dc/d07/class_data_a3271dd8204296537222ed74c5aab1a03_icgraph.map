@@ -1,3 +1,4 @@
 <map id="Data::normalize" name="Data::normalize">
-<area shape="rect" id="node2" href="$dc/d07/class_data.html#a6b91ca6585e8638f1b359a6f2bb827d7" title="Returns if the dataset is normalized. " alt="" coords="168,5,303,32"/>
+<area shape="rect" id="node1" title="normalize Normalize the dataset using a Lp&#45;norm." alt="" coords="156,5,267,32"/>
+<area shape="rect" id="node2" href="$d6/da4/class_i_m_a_dual.html#aff820af6454ceeef4d23af48476d7218" title="Function that execute the training phase of a Learner." alt="" coords="5,5,108,32"/>
 </map>

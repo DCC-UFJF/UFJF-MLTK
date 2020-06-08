@@ -1,8 +1,5 @@
 <map id="Data::getPoint" name="Data::getPoint">
-<area shape="rect" id="node2" href="$dc/d07/class_data.html#a87bdacb790f5a21966308c82b8be44d0" title="Returns the dimension of the dataset. " alt="" coords="170,31,270,57"/>
-<area shape="rect" id="node4" href="$dc/d07/class_data.html#a2357782011d11c06500b1d752b9428c6" title="Insert a point to the data from another sample. " alt="" coords="160,107,280,133"/>
-<area shape="rect" id="node7" href="$dd/da7/class_validation.html#a1e9580697a164d4bfbe721f2f1589c57" title="Divide the samples in training and test. " alt="" coords="328,157,492,184"/>
-<area shape="rect" id="node3" href="$d6/d26/class_a_o_s.html#a855c463e121f6b190f42ea1950c6d2dd" title="Function that executes the feature selection phase. " alt="" coords="338,5,482,32"/>
-<area shape="rect" id="node5" href="$dc/d07/class_data.html#a6b91ca6585e8638f1b359a6f2bb827d7" title="Returns if the dataset is normalized. " alt="" coords="540,81,675,108"/>
-<area shape="rect" id="node6" href="$dc/d07/class_data.html#adfd307ae8437b7b2da4372eb604a2c43" title="insertFeatures Returns Data object with only features in array. " alt="" coords="339,107,481,133"/>
+<area shape="rect" id="node1" title="Returns a shared pointer to the point with the given index." alt="" coords="381,31,484,57"/>
+<area shape="rect" id="node2" href="$dc/d07/class_data.html#a2357782011d11c06500b1d752b9428c6" title="Insert a point to the data from another sample." alt="" coords="216,5,333,32"/>
+<area shape="rect" id="node3" href="$dd/da7/class_validation.html#a1e9580697a164d4bfbe721f2f1589c57" title="Divide the samples in training and test." alt="" coords="5,31,168,57"/>
 </map>

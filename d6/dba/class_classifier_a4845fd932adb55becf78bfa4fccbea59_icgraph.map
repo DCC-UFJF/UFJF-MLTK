@@ -1,0 +1,4 @@
+<map id="Classifier::getSolutionRef" name="Classifier::getSolutionRef">
+<area shape="rect" id="node1" title="getSolution Returns a reference to the solution of the classifier." alt="" coords="156,5,323,32"/>
+<area shape="rect" id="node2" href="$d6/da4/class_i_m_a_dual.html#aff820af6454ceeef4d23af48476d7218" title="Function that execute the training phase of a Learner." alt="" coords="5,5,108,32"/>
+</map>

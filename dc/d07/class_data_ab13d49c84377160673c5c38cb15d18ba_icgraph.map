@@ -1,4 +1,5 @@
 <map id="Data::getTime_mult" name="Data::getTime_mult">
-<area shape="rect" id="node2" href="$dc/d07/class_data.html#a87bdacb790f5a21966308c82b8be44d0" title="Returns the dimension of the dataset. " alt="" coords="191,5,291,32"/>
-<area shape="rect" id="node3" href="$d6/d26/class_a_o_s.html#a855c463e121f6b190f42ea1950c6d2dd" title="Function that executes the feature selection phase. " alt="" coords="339,31,483,57"/>
+<area shape="rect" id="node1" title="Return the time multiplier." alt="" coords="327,31,461,57"/>
+<area shape="rect" id="node2" href="$dc/d07/class_data.html#a1883cc58a60fcb17c50e020d234f69c1" title="Makes a deep copy from another data object." alt="" coords="196,5,279,32"/>
+<area shape="rect" id="node3" href="$d6/d26/class_a_o_s.html#a855c463e121f6b190f42ea1950c6d2dd" title="Function that executes the feature selection phase." alt="" coords="5,31,148,57"/>
 </map>

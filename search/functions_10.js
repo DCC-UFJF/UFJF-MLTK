@@ -1,14 +1,5 @@
 var searchData=
 [
-  ['unset_5fcontour',['unset_contour',['../d3/d27/class_gnuplot.html#a0b8522cb81e46dd4f5a22b7b48f977b1',1,'Gnuplot']]],
-  ['unset_5fgrid',['unset_grid',['../d3/d27/class_gnuplot.html#a53183e1487bc6977f0d46bf75d19b4d3',1,'Gnuplot']]],
-  ['unset_5fhidden3d',['unset_hidden3d',['../d3/d27/class_gnuplot.html#ab8688182047f746090e1e5f2a8c11c9e',1,'Gnuplot']]],
-  ['unset_5flegend',['unset_legend',['../d3/d27/class_gnuplot.html#ace901a18ab1a459213afd3ee0233b5ce',1,'Gnuplot']]],
-  ['unset_5fmultiplot',['unset_multiplot',['../d3/d27/class_gnuplot.html#aad76cdec16cfb5fdf82f45ed2786f4d8',1,'Gnuplot']]],
-  ['unset_5fsmooth',['unset_smooth',['../d3/d27/class_gnuplot.html#ad9dfbccd66dece1dbe5803605c6ab08c',1,'Gnuplot']]],
-  ['unset_5fsurface',['unset_surface',['../d3/d27/class_gnuplot.html#a4ebddacbec61aa3e7bc4b89f508ad621',1,'Gnuplot']]],
-  ['unset_5ftitle',['unset_title',['../d3/d27/class_gnuplot.html#aca0aeb1dc0ac8d7e68ba6a15a977be28',1,'Gnuplot']]],
-  ['unset_5fxlogscale',['unset_xlogscale',['../d3/d27/class_gnuplot.html#a7b178184260f1498cd0c11a197ea0ac2',1,'Gnuplot']]],
-  ['unset_5fylogscale',['unset_ylogscale',['../d3/d27/class_gnuplot.html#a9217543dd49c4802b1194d42c5e10b6d',1,'Gnuplot']]],
-  ['unset_5fzlogscale',['unset_zlogscale',['../d3/d27/class_gnuplot.html#afa67f022ca344593b054d7f2e3406c7e',1,'Gnuplot']]]
+  ['timer_538',['Timer',['../d8/d08/class_timer.html#a5f16e8da27d2a5a5242dead46de05d97',1,'Timer']]],
+  ['train_539',['train',['../dd/de8/class_i_m_ap.html#aa8bf6b0d21a76d388fe81ee516b627e4',1,'IMAp::train()'],['../df/db6/class_i_m_ap_fixed_margin.html#a4d99742be5fe5a21b8ae6f99547a98c8',1,'IMApFixedMargin::train()'],['../d6/da4/class_i_m_a_dual.html#aff820af6454ceeef4d23af48476d7218',1,'IMADual::train()'],['../d5/d00/class_k_n_n.html#a06c93c89ec228db3d0dbd1b67044363e',1,'KNN::train()'],['../d4/d0b/class_one_vs_all.html#ad6bf2ed111dab5b04240360bbf31a7c8',1,'OneVsAll::train()'],['../d8/d34/class_perceptron_primal.html#ac6cafe7a8fabfb607761024ce60a6861',1,'PerceptronPrimal::train()'],['../d5/d40/class_perceptron_fixed_margin_primal.html#a6d4a14b9f39a4fef45de201edfeabce0',1,'PerceptronFixedMarginPrimal::train()'],['../d7/db4/class_perceptron_dual.html#ac5e6aac8184fdf8f9d39d8d183d49190',1,'PerceptronDual::train()'],['../d6/d4e/class_perceptron_fixed_margin_dual.html#a58a5acdd6afaedff53fab23779f01486',1,'PerceptronFixedMarginDual::train()'],['../d8/de4/class_s_m_o.html#af786da7154d3025293875a43faca8819',1,'SMO::train()'],['../d1/dd8/class_k_means.html#a8b7c27540112bb3152419aa8c9547520',1,'KMeans::train()'],['../d9/d2a/class_learner.html#a405ff5ebcd1d34f1d0bd7e1acc1d7165',1,'Learner::train()'],['../d0/d24/class_primal_perc_committee.html#ae374dd8eb3dff8fd685f69beee54b7f3',1,'PrimalPercCommittee::train()'],['../d6/db9/class_k_n_n_regressor.html#a839693f6846b1db777be98d00abec907',1,'KNNRegressor::train()'],['../d8/d2e/class_l_m_s_primal.html#aaba08885c7f03db41ea9735c2d0e1c92',1,'LMSPrimal::train()']]]
 ];

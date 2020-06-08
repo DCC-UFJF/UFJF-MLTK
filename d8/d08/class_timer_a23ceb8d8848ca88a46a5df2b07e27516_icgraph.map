@@ -1,3 +1,6 @@
 <map id="Timer::Elapsed" name="Timer::Elapsed">
-<area shape="rect" id="node2" href="$d9/d2a/class_learner.html#a2ebba060740ea935e0ddaf78725b3d41" title="Get the elapsed time in the training phase of the Learner. " alt="" coords="164,5,331,32"/>
+<area shape="rect" id="node1" title="Returns the elapsed time." alt="" coords="369,31,476,57"/>
+<area shape="rect" id="node2" href="$d9/d2a/class_learner.html#a2ebba060740ea935e0ddaf78725b3d41" title="Get the elapsed time in the training phase of the Learner." alt="" coords="156,31,321,57"/>
+<area shape="rect" id="node3" href="$dd/de8/class_i_m_ap.html#aa8bf6b0d21a76d388fe81ee516b627e4" title="Function that execute the training phase of a Learner." alt="" coords="15,5,99,32"/>
+<area shape="rect" id="node4" href="$d6/da4/class_i_m_a_dual.html#aff820af6454ceeef4d23af48476d7218" title="Function that execute the training phase of a Learner." alt="" coords="5,56,108,83"/>
 </map>

@@ -1,4 +1,6 @@
-<map id="/home/mateus558/Documents/Machine&#45;Learning&#45;Toolkit/includes/MLToolkit.hpp" name="/home/mateus558/Documents/Machine&#45;Learning&#45;Toolkit/includes/MLToolkit.hpp">
-<area shape="rect" id="node2" href="$d0/d6c/_i_m_a_8hpp.html" title="/home/mateus558/Documents\l/Machine&#45;Learning&#45;Toolkit\l/includes/IMA.hpp" alt="" coords="5,109,203,165"/>
-<area shape="rect" id="node3" href="$d5/dd7/_perceptron_8hpp.html" title="/home/mateus558/Documents\l/Machine&#45;Learning&#45;Toolkit\l/includes/Perceptron.hpp" alt="" coords="227,109,424,165"/>
+<map id="Modules/Core/include/MLToolkit.hpp" name="Modules/Core/include/MLToolkit.hpp">
+<area shape="rect" id="node1" title=" " alt="" coords="80,5,227,47"/>
+<area shape="rect" id="node2" href="$d0/d6c/_i_m_a_8hpp.html" title=" " alt="" coords="5,95,133,136"/>
+<area shape="rect" id="node3" href="$d5/dd7/_perceptron_8hpp.html" title=" " alt="" coords="158,95,317,136"/>
+<area shape="rect" id="node4" href="$d9/d90/_primal_perc_committee_8hpp_source.html" title=" " alt="" coords="149,184,326,225"/>
 </map>

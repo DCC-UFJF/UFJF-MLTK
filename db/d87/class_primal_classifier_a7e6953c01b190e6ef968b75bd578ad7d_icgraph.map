@@ -1,0 +1,4 @@
+<map id="PrimalClassifier::setqNorm" name="PrimalClassifier::setqNorm">
+<area shape="rect" id="node1" title="setqNorm Set the q norm used by the classifier. (Euclidean norm is the default)" alt="" coords="137,5,312,32"/>
+<area shape="rect" id="node2" href="$dd/de8/class_i_m_ap.html#aa8bf6b0d21a76d388fe81ee516b627e4" title="Function that execute the training phase of a Learner." alt="" coords="5,5,89,32"/>
+</map>

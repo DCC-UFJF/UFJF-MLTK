@@ -1,3 +1,4 @@
 <map id="PerceptronFixedMarginDual::train" name="PerceptronFixedMarginDual::train">
-<area shape="rect" id="node2" href="$db/de7/class_kernel.html#a4dc45b11849fada00d52060cee27730b" title="getKernelMatrixPointer Returns a reference to the kernel matrix. " alt="" coords="236,13,435,39"/>
+<area shape="rect" id="node1" title="Function that execute the training phase of a Learner." alt="" coords="5,5,187,47"/>
+<area shape="rect" id="node2" href="$db/de7/class_kernel.html#a4dc45b11849fada00d52060cee27730b" title="getKernelMatrixPointer Returns a reference to the kernel matrix." alt="" coords="235,13,431,39"/>
 </map>

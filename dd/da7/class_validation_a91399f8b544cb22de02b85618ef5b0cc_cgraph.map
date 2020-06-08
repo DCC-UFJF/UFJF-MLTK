@@ -1,4 +1,5 @@
 <map id="Validation::Validation" name="Validation::Validation">
-<area shape="rect" id="node2" href="$d2/d48/namespace_random.html#ad8b845768c2e5f049eb7ae06955bdd77" title="Initialize the mersenne twister pseudorandom number generator. " alt="" coords="213,5,309,32"/>
-<area shape="rect" id="node3" href="$d2/d48/namespace_random.html#a928dacbcc057819706ba38bc20046035" title="Get the seed used in the mersenne twister. " alt="" coords="197,56,324,83"/>
+<area shape="rect" id="node1" title="Constructor initializing the sample and classifier used." alt="" coords="5,31,148,57"/>
+<area shape="rect" id="node2" href="$d2/d48/namespace_random.html#a928dacbcc057819706ba38bc20046035" title="Get the seed used in the mersenne twister." alt="" coords="196,5,320,32"/>
+<area shape="rect" id="node3" href="$d2/d48/namespace_random.html#ad8b845768c2e5f049eb7ae06955bdd77" title="Initialize the mersenne twister pseudorandom number generator." alt="" coords="211,56,305,83"/>
 </map>

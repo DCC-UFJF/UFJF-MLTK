@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['gnuplot',['Gnuplot',['../d3/d27/class_gnuplot.html',1,'']]],
-  ['gnuplotexception',['GnuplotException',['../d1/dd4/class_gnuplot_exception.html',1,'']]],
-  ['golub',['Golub',['../d8/d9c/class_golub.html',1,'']]]
+  ['featureselection_307',['FeatureSelection',['../df/d2f/class_feature_selection.html',1,'']]],
+  ['fisher_308',['Fisher',['../d5/d3f/class_fisher.html',1,'']]]
 ];

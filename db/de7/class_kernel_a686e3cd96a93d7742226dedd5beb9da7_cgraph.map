@@ -1,4 +1,5 @@
 <map id="Kernel::norm" name="Kernel::norm">
-<area shape="rect" id="node2" href="$dc/d07/class_data.html#a310d4da4294cb3576a2faf0809c91b1e" title="Returns the size of the dataset. " alt="" coords="155,5,257,32"/>
-<area shape="rect" id="node3" href="$dc/d07/class_data.html#a63a36fcbe42e0956d602f11af0d2009e" title="Returns a shared pointer to the vector of Points of the sample. " alt="" coords="149,56,263,83"/>
+<area shape="rect" id="node1" title="norm Computes norm in dual variables." alt="" coords="5,31,100,57"/>
+<area shape="rect" id="node2" href="$dc/d07/class_data.html#a63a36fcbe42e0956d602f11af0d2009e" title="Returns a shared pointer to the vector of Points of the sample." alt="" coords="148,5,259,32"/>
+<area shape="rect" id="node3" href="$dc/d07/class_data.html#a34fdd056f6b8b948deb1682b5d5a03d2" title="Returns the size of the dataset." alt="" coords="154,56,253,83"/>
 </map>

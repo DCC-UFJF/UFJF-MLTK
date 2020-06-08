@@ -1,8 +1,9 @@
 <map id="PerceptronFixedMarginPrimal&lt; T &gt;" name="PerceptronFixedMarginPrimal&lt; T &gt;">
-<area shape="rect" id="node2" href="$db/d87/class_primal_classifier.html" title="PrimalClassifier\&lt; T \&gt;" alt="" coords="45,260,191,287"/>
-<area shape="rect" id="node3" href="$d6/dba/class_classifier.html" title="Classifier\&lt; T \&gt;" alt="" coords="63,184,173,211"/>
-<area shape="rect" id="node4" href="$d9/d2a/class_learner.html" title="Learner\&lt; T \&gt;" alt="" coords="16,95,113,121"/>
-<area shape="rect" id="node5" href="$d8/d08/class_timer.html" title="Wrapper for the implementation of a simple timer. " alt="" coords="37,5,92,32"/>
-<area shape="rect" id="node6" href="$dd/d4f/class_solution.html" title="Solution" alt="" coords="138,95,207,121"/>
-<area shape="rect" id="node7" href="$db/de7/class_kernel.html" title="Class for the kernel computations. " alt="" coords="143,5,202,32"/>
+<area shape="rect" id="node1" title="Wrapper for the implementation of the Perceptron primal with fixed margin algorithm." alt="" coords="5,336,228,363"/>
+<area shape="rect" id="node2" href="$db/d87/class_primal_classifier.html" title=" " alt="" coords="45,260,188,287"/>
+<area shape="rect" id="node3" href="$d6/dba/class_classifier.html" title=" " alt="" coords="64,184,169,211"/>
+<area shape="rect" id="node4" href="$d9/d2a/class_learner.html" title=" " alt="" coords="17,95,113,121"/>
+<area shape="rect" id="node5" href="$d8/d08/class_timer.html" title="Wrapper for the implementation of a simple timer." alt="" coords="37,5,92,32"/>
+<area shape="rect" id="node6" href="$dd/d4f/class_solution.html" title=" " alt="" coords="137,95,206,121"/>
+<area shape="rect" id="node7" href="$db/de7/class_kernel.html" title="Class for the kernel computations." alt="" coords="142,5,201,32"/>
 </map>

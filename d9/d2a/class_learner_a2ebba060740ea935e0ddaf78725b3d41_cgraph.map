@@ -1,3 +1,4 @@
 <map id="Learner::getElapsedTime" name="Learner::getElapsedTime">
-<area shape="rect" id="node2" href="$d8/d08/class_timer.html#a23ceb8d8848ca88a46a5df2b07e27516" title="Returns the elapsed time. " alt="" coords="220,5,331,32"/>
+<area shape="rect" id="node1" title="Get the elapsed time in the training phase of the Learner." alt="" coords="5,5,171,32"/>
+<area shape="rect" id="node2" href="$d8/d08/class_timer.html#a23ceb8d8848ca88a46a5df2b07e27516" title="Returns the elapsed time." alt="" coords="219,5,325,32"/>
 </map>

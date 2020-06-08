@@ -1,0 +1,4 @@
+<map id="Gnuplot::operator&lt;&lt;" name="Gnuplot::operator&lt;&lt;">
+<area shape="rect" id="node1" title="Sends a command to an active gnuplot session, identical to cmd() send a command to gnuplot using the ..." alt="" coords="5,5,141,32"/>
+<area shape="rect" id="node2" href="$d3/d27/class_gnuplot.html#a07607803ede8dd5416906df0a1924fc5" title="send a command to gnuplot" alt="" coords="189,5,288,32"/>
+</map>

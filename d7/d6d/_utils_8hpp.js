@@ -7,14 +7,13 @@ var _utils_8hpp =
       [ "NORM_L1", "d7/d6d/_utils_8hpp.html#ad4bb8dabdbf8ad75e34220cc666b59caa5b47b59c8bcf8bac3603236652a05970", null ],
       [ "NORM_L2", "d7/d6d/_utils_8hpp.html#ad4bb8dabdbf8ad75e34220cc666b59caad3dec0c98f8c4250faa45129da273854", null ]
     ] ],
-    [ "dtoa", "d7/d6d/_utils_8hpp.html#aa2e6553d01cd9d5839b137e33d17f256", null ],
-    [ "is_number", "d7/d6d/_utils_8hpp.html#ad5057d992c7e88f80c37a28044320e45", null ],
-    [ "itos", "d7/d6d/_utils_8hpp.html#a2cb59bd32f3873689eb1b5516a1333f7", null ],
-    [ "max", "d7/d6d/_utils_8hpp.html#a452d2724d2f82cc2c17f54b388232200", null ],
-    [ "maxAbsElement", "d7/d6d/_utils_8hpp.html#a09a24bfc15c5a255cda38642b6cda9f0", null ],
-    [ "min", "d7/d6d/_utils_8hpp.html#a82fe34140a419a1f19200091b808e4ad", null ],
-    [ "split", "d7/d6d/_utils_8hpp.html#a03529396588a5d4dac36c432989fdfaa", null ],
-    [ "split", "d7/d6d/_utils_8hpp.html#ae924c9b43cd7b086945003c09c294d2b", null ],
-    [ "stodn", "d7/d6d/_utils_8hpp.html#a0187e008853de2faa4269af7602af7d5", null ],
-    [ "stoin", "d7/d6d/_utils_8hpp.html#a8f8f36f1e1b6c6900fac56c148f754eb", null ]
+    [ "atod", "d7/d6d/_utils_8hpp.html#ab57e1cd647521bc3149ae54cb7fbf3a9", null ],
+    [ "dtoa", "d7/d6d/_utils_8hpp.html#a700c78d2db129cf738b3c82274d7a99b", null ],
+    [ "is_number", "d7/d6d/_utils_8hpp.html#af9834e74b99cfa451d68a2842efc409f", null ],
+    [ "itos", "d7/d6d/_utils_8hpp.html#a3dcff8f030040bdd63f2b9556c7f2b39", null ],
+    [ "maxAbsElement", "d7/d6d/_utils_8hpp.html#a064dd32742fbf39c7d7b7d6fade03713", null ],
+    [ "printConfusionMatrix", "d7/d6d/_utils_8hpp.html#a0dfec1afda76ed3c97cb6eb2403a87ad", null ],
+    [ "split", "d7/d6d/_utils_8hpp.html#a04eb58f493219287850c60f04b2e7488", null ],
+    [ "split", "d7/d6d/_utils_8hpp.html#ae468d0c710c36e05a0de9f04b9e96920", null ],
+    [ "stoin", "d7/d6d/_utils_8hpp.html#a8fd9cf373e557233447320fff85f0b75", null ]
 ];

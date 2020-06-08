@@ -1,5 +1,6 @@
 <map id="IMApFixedMargin&lt; T &gt;" name="IMApFixedMargin&lt; T &gt;">
-<area shape="rect" id="node2" href="$db/d87/class_primal_classifier.html" title="PrimalClassifier\&lt; T \&gt;" alt="" coords="10,155,157,181"/>
-<area shape="rect" id="node3" href="$d6/dba/class_classifier.html" title="Classifier\&lt; T \&gt;" alt="" coords="29,80,138,107"/>
-<area shape="rect" id="node4" href="$d9/d2a/class_learner.html" title="Learner\&lt; T \&gt;" alt="" coords="35,5,132,32"/>
+<area shape="rect" id="node1" title="Wrapper for the implementation of the Incremental Margin Algorithm primal with fixed margin." alt="" coords="5,229,159,256"/>
+<area shape="rect" id="node2" href="$db/d87/class_primal_classifier.html" title=" " alt="" coords="11,155,153,181"/>
+<area shape="rect" id="node3" href="$d6/dba/class_classifier.html" title=" " alt="" coords="29,80,135,107"/>
+<area shape="rect" id="node4" href="$d9/d2a/class_learner.html" title=" " alt="" coords="34,5,130,32"/>
 </map>

@@ -1,8 +1,9 @@
 <map id="Validation::partTrainTest" name="Validation::partTrainTest">
-<area shape="rect" id="node2" href="$dc/d07/class_data.html#ad94f8c8227a298b5cc0a862658f8cb99" title="Returns a copy of the data with zero points. " alt="" coords="233,5,345,32"/>
-<area shape="rect" id="node3" href="$dc/d07/class_data.html#a2357782011d11c06500b1d752b9428c6" title="Insert a point to the data from another sample. " alt="" coords="229,107,349,133"/>
-<area shape="rect" id="node4" href="$dc/d07/class_data.html#a310d4da4294cb3576a2faf0809c91b1e" title="Returns the size of the dataset. " alt="" coords="410,81,513,108"/>
-<area shape="rect" id="node5" href="$dc/d07/class_data.html#a482efc1083d4871758ddd05b11bb90ea" title="Returns a shared pointer to the point with the given index. " alt="" coords="408,132,515,159"/>
-<area shape="rect" id="node6" href="$d2/d48/namespace_random.html#a0fecb2ca9c3ca82f87c35ceed7146ffe" title="Returns a integer between low and high. " alt="" coords="217,208,360,235"/>
-<area shape="rect" id="node7" href="$dc/d07/class_data.html#ade1a5caf2f463a894e1d348f728b56cf" title="setPoint Set the point in a position of the data. " alt="" coords="235,259,342,285"/>
+<area shape="rect" id="node1" title="Divide the samples in training and test." alt="" coords="5,132,168,159"/>
+<area shape="rect" id="node2" href="$dc/d07/class_data.html#ad94f8c8227a298b5cc0a862658f8cb99" title="Returns a copy of the data with zero points." alt="" coords="231,5,339,32"/>
+<area shape="rect" id="node3" href="$dc/d07/class_data.html#a482efc1083d4871758ddd05b11bb90ea" title="Returns a shared pointer to the point with the given index." alt="" coords="403,81,505,108"/>
+<area shape="rect" id="node4" href="$dc/d07/class_data.html#a34fdd056f6b8b948deb1682b5d5a03d2" title="Returns the size of the dataset." alt="" coords="405,132,503,159"/>
+<area shape="rect" id="node5" href="$dc/d07/class_data.html#a2357782011d11c06500b1d752b9428c6" title="Insert a point to the data from another sample." alt="" coords="227,107,344,133"/>
+<area shape="rect" id="node6" href="$d2/d48/namespace_random.html#a0fecb2ca9c3ca82f87c35ceed7146ffe" title="Returns a integer between low and high." alt="" coords="216,208,355,235"/>
+<area shape="rect" id="node7" href="$dc/d07/class_data.html#ade1a5caf2f463a894e1d348f728b56cf" title="setPoint Set the point in a position of the data." alt="" coords="234,259,337,285"/>
 </map>

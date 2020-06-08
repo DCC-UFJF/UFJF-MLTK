@@ -1,8 +1,0 @@
-<map id="Data::insertFeatures" name="Data::insertFeatures">
-<area shape="rect" id="node2" href="$dc/d07/class_data.html#ad6e602802e593e4700b3746de55f890b" title="setDim Set the dimension of the points. " alt="" coords="229,5,329,32"/>
-<area shape="rect" id="node3" href="$dc/d07/class_data.html#a3fc15f7a8c270b72af86951d6955608d" title="clear Clear the data. " alt="" coords="236,80,323,107"/>
-<area shape="rect" id="node4" href="$dc/d07/class_data.html#a2357782011d11c06500b1d752b9428c6" title="Insert a point to the data from another sample. " alt="" coords="219,131,339,157"/>
-<area shape="rect" id="node7" href="$dc/d07/class_data.html#a3b22a1e56ab54ca6ecd84bef0ad968cc" title="setFeaturesNames Set the name of the features of the data. " alt="" coords="195,181,364,208"/>
-<area shape="rect" id="node5" href="$dc/d07/class_data.html#a310d4da4294cb3576a2faf0809c91b1e" title="Returns the size of the dataset. " alt="" coords="414,105,517,132"/>
-<area shape="rect" id="node6" href="$dc/d07/class_data.html#a482efc1083d4871758ddd05b11bb90ea" title="Returns a shared pointer to the point with the given index. " alt="" coords="412,156,519,183"/>
-</map>

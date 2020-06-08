@@ -1,5 +1,6 @@
 <map id="PerceptronFixedMarginDual&lt; T &gt;" name="PerceptronFixedMarginDual&lt; T &gt;">
-<area shape="rect" id="node2" href="$d1/dbb/class_dual_classifier.html" title="DualClassifier\&lt; T \&gt;" alt="" coords="45,155,181,181"/>
-<area shape="rect" id="node3" href="$d6/dba/class_classifier.html" title="Classifier\&lt; T \&gt;" alt="" coords="58,80,167,107"/>
-<area shape="rect" id="node4" href="$d9/d2a/class_learner.html" title="Learner\&lt; T \&gt;" alt="" coords="64,5,161,32"/>
+<area shape="rect" id="node1" title="Wrapper for the implementation of the Perceptron dual with fixed margin algorithm." alt="" coords="5,229,216,256"/>
+<area shape="rect" id="node2" href="$d1/dbb/class_dual_classifier.html" title=" " alt="" coords="45,155,176,181"/>
+<area shape="rect" id="node3" href="$d6/dba/class_classifier.html" title=" " alt="" coords="58,80,163,107"/>
+<area shape="rect" id="node4" href="$d9/d2a/class_learner.html" title=" " alt="" coords="63,5,159,32"/>
 </map>

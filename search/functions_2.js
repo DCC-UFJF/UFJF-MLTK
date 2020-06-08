@@ -1,5 +1,6 @@
 var searchData=
 [
-  ['elapsed',['Elapsed',['../d8/d08/class_timer.html#a23ceb8d8848ca88a46a5df2b07e27516',1,'Timer']]],
-  ['evaluate',['evaluate',['../dd/de8/class_i_m_ap.html#a41b0739cdc486e3f21e7927f1ad429a8',1,'IMAp::evaluate()'],['../df/db6/class_i_m_ap_fixed_margin.html#a909eb58c78c20780494598b478f8846f',1,'IMApFixedMargin::evaluate()'],['../d6/da4/class_i_m_a_dual.html#af67dfc75554d055cfdf761ee940243d7',1,'IMADual::evaluate()'],['../d9/d2a/class_learner.html#a670e6615c6bad54ba2139a3a3e718b98',1,'Learner::evaluate()'],['../d8/d34/class_perceptron_primal.html#a547d98d8d61480d5bc44fe759c3a8e28',1,'PerceptronPrimal::evaluate()'],['../d5/d40/class_perceptron_fixed_margin_primal.html#a5bfe0f03533361017b594c3fe67f0905',1,'PerceptronFixedMarginPrimal::evaluate()'],['../d7/db4/class_perceptron_dual.html#afae65908732e5f011be1d384387c71fe',1,'PerceptronDual::evaluate()'],['../d6/d4e/class_perceptron_fixed_margin_dual.html#acafabadf6d2552fde0bfb32f0344c6e3',1,'PerceptronFixedMarginDual::evaluate()'],['../d8/de4/class_s_m_o.html#a8de3c4c54e1ed13285477f142c0eac46',1,'SMO::evaluate()']]]
+  ['data_371',['Data',['../dc/d07/class_data.html#ad6253528544ca7f4318a1534c6c2e54c',1,'Data::Data(const char *dataset, const char *datasetType, const char *pos_class=&quot;1&quot;, const char *neg_class=&quot;-1&quot;)'],['../dc/d07/class_data.html#aff3a6a7e9ff8073fbadbbd948eee3963',1,'Data::Data(size_t size, size_t dim, T val=T())'],['../dc/d07/class_data.html#aee3781b2b9523c7cd5fae46c43cd07cc',1,'Data::Data(const char *dataset)']]],
+  ['dot_372',['dot',['../d0/d69/class_point.html#ab1a74677723b3774be565d88af2187f8',1,'Point']]],
+  ['dtoa_373',['dtoa',['../d7/d6d/_utils_8hpp.html#a700c78d2db129cf738b3c82274d7a99b',1,'Utils']]]
 ];

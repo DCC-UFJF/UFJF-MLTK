@@ -1,7 +1,5 @@
 var searchData=
 [
-  ['featurespacenorm',['featureSpaceNorm',['../db/de7/class_kernel.html#a3f9176d4d29d272923b07f2f817e398a',1,'Kernel']]],
-  ['floatinrange',['floatInRange',['../d2/d48/namespace_random.html#ac99d2b48fd9c53d096da24b17227c0a3',1,'Random']]],
-  ['function',['function',['../db/de7/class_kernel.html#ae7ecba4a0a702141eba9ff29e24ea236',1,'Kernel']]],
-  ['functionwithoutdim',['functionWithoutDim',['../db/de7/class_kernel.html#aae7563927691a73b6f20b0194087c035',1,'Kernel']]]
+  ['elapsed_374',['Elapsed',['../d8/d08/class_timer.html#a23ceb8d8848ca88a46a5df2b07e27516',1,'Timer']]],
+  ['evaluate_375',['evaluate',['../d1/dbb/class_dual_classifier.html#a4db588ff3339bb016cdabf7eb27b576f',1,'DualClassifier::evaluate()'],['../dd/de8/class_i_m_ap.html#a41b0739cdc486e3f21e7927f1ad429a8',1,'IMAp::evaluate()'],['../df/db6/class_i_m_ap_fixed_margin.html#a909eb58c78c20780494598b478f8846f',1,'IMApFixedMargin::evaluate()'],['../d5/d00/class_k_n_n.html#a07602b02d2d242981a1a512f865b3d78',1,'KNN::evaluate()'],['../d4/d0b/class_one_vs_all.html#a38891b9c0ab5cfab69c687ea981030bb',1,'OneVsAll::evaluate()'],['../d5/d40/class_perceptron_fixed_margin_primal.html#a5bfe0f03533361017b594c3fe67f0905',1,'PerceptronFixedMarginPrimal::evaluate()'],['../db/d87/class_primal_classifier.html#a3d6ff7dd172d7632e597cb0a76d53a80',1,'PrimalClassifier::evaluate()'],['../d1/dd8/class_k_means.html#aef98b5110438d700f30458f682ee0f7a',1,'KMeans::evaluate()'],['../d9/d2a/class_learner.html#a670e6615c6bad54ba2139a3a3e718b98',1,'Learner::evaluate()'],['../da/df7/class_primal_committee.html#a4cd658fe8ede34773c06c5c6e8488046',1,'PrimalCommittee::evaluate()'],['../d2/d6c/class_dual_regressor.html#a0c42472d654d796078e59f4cbced7c09',1,'DualRegressor::evaluate()'],['../d6/db9/class_k_n_n_regressor.html#a0508c2503319c4ed8e37745815e70dec',1,'KNNRegressor::evaluate()'],['../d3/da5/class_primal_regressor.html#a60f80029e57c91829484dff815dd5116',1,'PrimalRegressor::evaluate()']]]
 ];

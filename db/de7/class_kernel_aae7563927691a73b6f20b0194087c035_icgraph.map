@@ -1,4 +1,6 @@
 <map id="Kernel::functionWithoutDim" name="Kernel::functionWithoutDim">
-<area shape="rect" id="node2" href="$db/de7/class_kernel.html#a32f8639c734692862062817efaeead64" title="compute Compute the H matrix without a dimension, with the computed kernel matrix and given samples..." alt="" coords="236,5,465,32"/>
-<area shape="rect" id="node3" href="$d1/dbb/class_dual_classifier.html#a179729f872fe280d752089c571187fbf" title="Compute the weights of the dual classifier (with H matrix). " alt="" coords="513,5,712,32"/>
+<area shape="rect" id="node1" title="function Compute the kernel function between two points without a dimension." alt="" coords="668,5,847,32"/>
+<area shape="rect" id="node2" href="$db/de7/class_kernel.html#a32f8639c734692862062817efaeead64" title="compute Compute the H matrix without a dimension, with the computed kernel matrix and given samples." alt="" coords="395,5,620,32"/>
+<area shape="rect" id="node3" href="$d1/dbb/class_dual_classifier.html#a179729f872fe280d752089c571187fbf" title="Compute the weights of the dual classifier (with H matrix)." alt="" coords="156,5,347,32"/>
+<area shape="rect" id="node4" href="$d6/da4/class_i_m_a_dual.html#aff820af6454ceeef4d23af48476d7218" title="Function that execute the training phase of a Learner." alt="" coords="5,5,108,32"/>
 </map>

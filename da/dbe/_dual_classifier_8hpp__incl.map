@@ -1,11 +1,25 @@
-<map id="/home/mateus558/Documents/Machine&#45;Learning&#45;Toolkit/includes/DualClassifier.hpp" name="/home/mateus558/Documents/Machine&#45;Learning&#45;Toolkit/includes/DualClassifier.hpp">
-<area shape="rect" id="node2" href="$dd/d8b/_kernel_8hpp.html" title="Kernel.hpp" alt="" coords="195,333,279,360"/>
-<area shape="rect" id="node18" href="$db/db0/_classifier_8hpp.html" title="Classifier.hpp" alt="" coords="287,109,390,136"/>
-<area shape="rect" id="node7" href="$dc/d3b/_data_8hpp.html" title="Data.hpp" alt="" coords="481,408,556,435"/>
-<area shape="rect" id="node15" href="$d7/d6d/_utils_8hpp.html" title="../includes/Utils.hpp" alt="" coords="739,632,877,659"/>
-<area shape="rect" id="node14" href="$db/deb/_point_8hpp.html" title="Point.hpp" alt="" coords="365,557,443,584"/>
-<area shape="rect" id="node17" href="$d5/d1d/_statistics_8hpp.html" title="Statistics.hpp" alt="" coords="339,483,442,509"/>
-<area shape="rect" id="node19" href="$d2/d85/_learner_8hpp_source.html" title="Learner.hpp" alt="" coords="299,184,389,211"/>
-<area shape="rect" id="node20" href="$d0/d0d/_solution_8hpp.html" title="../includes/Solution.hpp" alt="" coords="43,259,202,285"/>
-<area shape="rect" id="node21" href="$dd/d91/_timer_8hpp.html" title="../includes/Timer.hpp" alt="" coords="277,259,421,285"/>
+<map id="Modules/Classifier/include/DualClassifier.hpp" name="Modules/Classifier/include/DualClassifier.hpp">
+<area shape="rect" id="node1" title=" " alt="" coords="149,5,323,47"/>
+<area shape="rect" id="node2" href="$dd/d8b/_kernel_8hpp.html" title=" " alt="" coords="193,319,276,345"/>
+<area shape="rect" id="node3" title=" " alt="" coords="372,692,431,719"/>
+<area shape="rect" id="node18" href="$db/db0/_classifier_8hpp.html" title=" " alt="" coords="277,95,376,121"/>
+<area shape="rect" id="node4" title=" " alt="" coords="195,468,263,495"/>
+<area shape="rect" id="node5" title=" " alt="" coords="195,617,253,644"/>
+<area shape="rect" id="node6" title=" " alt="" coords="145,393,197,420"/>
+<area shape="rect" id="node7" href="$dc/d3b/_data_8hpp.html" title=" " alt="" coords="466,393,539,420"/>
+<area shape="rect" id="node15" href="$d7/d6d/_utils_8hpp.html" title=" " alt="" coords="801,617,874,644"/>
+<area shape="rect" id="node8" title=" " alt="" coords="978,692,1033,719"/>
+<area shape="rect" id="node9" title=" " alt="" coords="657,468,725,495"/>
+<area shape="rect" id="node10" title=" " alt="" coords="749,468,824,495"/>
+<area shape="rect" id="node11" title=" " alt="" coords="877,692,947,719"/>
+<area shape="rect" id="node12" title=" " alt="" coords="289,617,361,644"/>
+<area shape="rect" id="node13" title=" " alt="" coords="565,468,632,495"/>
+<area shape="rect" id="node14" href="$db/deb/_point_8hpp.html" title=" " alt="" coords="363,543,439,569"/>
+<area shape="rect" id="node17" href="$d5/d1d/_statistics_8hpp.html" title=" " alt="" coords="339,468,440,495"/>
+<area shape="rect" id="node16" title=" " alt="" coords="790,692,853,719"/>
+<area shape="rect" id="node19" href="$d2/d85/_learner_8hpp_source.html" title=" " alt="" coords="283,169,373,196"/>
+<area shape="rect" id="node20" href="$d0/d0d/_solution_8hpp.html" title=" " alt="" coords="105,244,199,271"/>
+<area shape="rect" id="node21" href="$dd/d91/_timer_8hpp.html" title=" " alt="" coords="290,244,369,271"/>
+<area shape="rect" id="node22" title=" " alt="" coords="301,319,358,345"/>
+<area shape="rect" id="node23" title=" " alt="" coords="382,319,437,345"/>
 </map>

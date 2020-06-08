@@ -1,5 +1,6 @@
 <map id="PerceptronPrimal&lt; T &gt;" name="PerceptronPrimal&lt; T &gt;">
-<area shape="rect" id="node2" href="$db/d87/class_primal_classifier.html" title="PrimalClassifier\&lt; T \&gt;" alt="" coords="9,155,156,181"/>
-<area shape="rect" id="node3" href="$d6/dba/class_classifier.html" title="Classifier\&lt; T \&gt;" alt="" coords="28,80,137,107"/>
-<area shape="rect" id="node4" href="$d9/d2a/class_learner.html" title="Learner\&lt; T \&gt;" alt="" coords="34,5,131,32"/>
+<area shape="rect" id="node1" title="Wrapper for the implementation of the Perceptron primal algorithm." alt="" coords="5,229,157,256"/>
+<area shape="rect" id="node2" href="$db/d87/class_primal_classifier.html" title=" " alt="" coords="10,155,153,181"/>
+<area shape="rect" id="node3" href="$d6/dba/class_classifier.html" title=" " alt="" coords="29,80,134,107"/>
+<area shape="rect" id="node4" href="$d9/d2a/class_learner.html" title=" " alt="" coords="33,5,129,32"/>
 </map>

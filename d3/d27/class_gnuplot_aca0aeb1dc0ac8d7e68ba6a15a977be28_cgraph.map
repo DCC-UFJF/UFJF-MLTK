@@ -1,0 +1,4 @@
+<map id="Gnuplot::unset_title" name="Gnuplot::unset_title">
+<area shape="rect" id="node1" title="Clears the title of a gnuplot session The title is not set by default." alt="" coords="5,5,139,32"/>
+<area shape="rect" id="node2" href="$d3/d27/class_gnuplot.html#a4f93bac0e69dd83806652ca7226c6b3b" title="sets and clears the title of a gnuplot session" alt="" coords="187,5,305,32"/>
+</map>

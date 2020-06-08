@@ -3,6 +3,7 @@ var class_learner =
     [ "evaluate", "d9/d2a/class_learner.html#a670e6615c6bad54ba2139a3a3e718b98", null ],
     [ "getCtot", "d9/d2a/class_learner.html#afa6aca31b2b69b3dcb5cecd8d20fcb9c", null ],
     [ "getElapsedTime", "d9/d2a/class_learner.html#a2ebba060740ea935e0ddaf78725b3d41", null ],
+    [ "getFormulationString", "d9/d2a/class_learner.html#a2982992c0b4b00af9f9addec78d89d8d", null ],
     [ "getMaxTime", "d9/d2a/class_learner.html#a1cc77e06a25ecdad21444e10ec3aa92f", null ],
     [ "getSteps", "d9/d2a/class_learner.html#ab5e62cb073d7b4637e32ad35f9a9a7b9", null ],
     [ "getUpdates", "d9/d2a/class_learner.html#ab20cbef3868c739f2430b900726cf70d", null ],

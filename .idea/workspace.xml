@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="UFJF-mltk" targetName="classifier" />
+      <config projectName="UFJF-mltk" targetName="regressor" />
+      <config projectName="UFJF-mltk" targetName="core" />
+      <config projectName="UFJF-mltk" targetName="feature-selection" />
+      <config projectName="UFJF-mltk" targetName="ufjf-mltk-cli" />
+      <config projectName="UFJF-mltk" targetName="visualize" />
+      <config projectName="UFJF-mltk" targetName="validation" />
+      <config projectName="UFJF-mltk" targetName="clusterer" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" GENERATION_OPTIONS="-DBUILD_CLI=ON" BUILD_OPTIONS="-j 4" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dd21396d-66e9-49da-b953-1200c878179c" name="Default Changelist" comment="Some code refactoring." />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CMakeLists.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Mateus Coutinho Marim &lt;mateus.marim@ice.ufjf.br&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Z1oxjXwAfp5GNjANNozca2M7Xc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="CMakeSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/GUI" />
+      <recent name="$PROJECT_DIR$/includes" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="CMake Application.ufjf-mltk-cli">
+    <configuration name="classifier" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="UFJF-mltk" TARGET_NAME="classifier" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="clusterer" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="UFJF-mltk" TARGET_NAME="clusterer" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="core" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="UFJF-mltk" TARGET_NAME="core" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="feature-selection" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="UFJF-mltk" TARGET_NAME="feature-selection" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="regressor" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="UFJF-mltk" TARGET_NAME="regressor" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ufjf-mltk-cli" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="UFJF-mltk" TARGET_NAME="ufjf-mltk-cli" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="UFJF-mltk" RUN_TARGET_NAME="ufjf-mltk-cli">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="validation" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="UFJF-mltk" TARGET_NAME="validation" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="visualize" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="UFJF-mltk" TARGET_NAME="visualize" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.ufjf-mltk-cli" />
+      <item itemvalue="CMake Application.classifier" />
+      <item itemvalue="CMake Application.clusterer" />
+      <item itemvalue="CMake Application.core" />
+      <item itemvalue="CMake Application.feature-selection" />
+      <item itemvalue="CMake Application.regressor" />
+      <item itemvalue="CMake Application.validation" />
+      <item itemvalue="CMake Application.visualize" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dd21396d-66e9-49da-b953-1200c878179c" name="Default Changelist" comment="" />
+      <created>1584016210545</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584016210545</updated>
+      <workItem from="1584016216188" duration="4705000" />
+      <workItem from="1584117844531" duration="620000" />
+      <workItem from="1584364936082" duration="9152000" />
+      <workItem from="1584455489801" duration="17074000" />
+      <workItem from="1584723382178" duration="11760000" />
+      <workItem from="1585094490104" duration="906000" />
+      <workItem from="1585104208750" duration="568000" />
+      <workItem from="1585108053205" duration="130000" />
+      <workItem from="1585142510099" duration="7981000" />
+      <workItem from="1585235427150" duration="17626000" />
+      <workItem from="1585256007737" duration="9922000" />
+      <workItem from="1585279737821" duration="9303000" />
+      <workItem from="1585590589881" duration="2032000" />
+      <workItem from="1585602405757" duration="13000" />
+      <workItem from="1585603322009" duration="5474000" />
+      <workItem from="1591209600830" duration="1059000" />
+      <workItem from="1591210686728" duration="928000" />
+      <workItem from="1591211851687" duration="2635000" />
+      <workItem from="1591217297213" duration="1768000" />
+      <workItem from="1591219113181" duration="134000" />
+      <workItem from="1591219273197" duration="4676000" />
+      <workItem from="1591272217292" duration="891000" />
+      <workItem from="1591273456066" duration="4490000" />
+      <workItem from="1591278100940" duration="1341000" />
+      <workItem from="1591280327626" duration="27000" />
+      <workItem from="1591376854567" duration="2663000" />
+      <workItem from="1591401653651" duration="2748000" />
+      <workItem from="1591452858941" duration="14563000" />
+      <workItem from="1591470038367" duration="1266000" />
+      <workItem from="1591500154677" duration="4411000" />
+      <workItem from="1591536633481" duration="4506000" />
+    </task>
+    <task id="LOCAL-00001" summary="LMS fixed, Data class improvements and fixes.">
+      <created>1584373360664</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1584373360664</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Visualization module adapted for multiclass datasets and LMS bug fixes.">
+      <created>1584471837330</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1584471837330</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Some code refactoring.">
+      <created>1584474123638</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1584474123638</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Some code refactoring.">
+      <created>1584478418827</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1584478418827</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Data loading for binary dataset implemented as in the literature (classes 1 and -1).">
+      <created>1584485182300</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1584485182300</updated>
+    </task>
+    <task id="LOCAL-00006" summary="K-nearest neighbors algorithm implemented.">
+      <created>1584732596634</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1584732596634</updated>
+    </task>
+    <task id="LOCAL-00007" summary="KNN working with regression.">
+      <created>1584734622694</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1584734622694</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Confusion matrix implemented and fixes on multi class classification support from Data template.">
+      <created>1585149560929</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1585149560929</updated>
+    </task>
+    <task id="LOCAL-00009" summary="KMeans algorithm implemented. (Still needs testing)">
+      <created>1585248476159</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1585248476159</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Evaluation function for KMeans implemented.">
+      <created>1585248927030</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1585248927030</updated>
+    </task>
+    <task id="LOCAL-00011" summary="K-means option added to console interface.">
+      <created>1585249189308</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1585249189308</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Started to test K-means.">
+      <created>1585252875140</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1585252875140</updated>
+    </task>
+    <task id="LOCAL-00013" summary="More testing on k-means.">
+      <created>1585264768490</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1585264768490</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Data deep copy function fixed.">
+      <created>1585285312413</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1585285312414</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Started to implement One-vs-All algorithm.">
+      <created>1585608003242</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1585608003242</updated>
+    </task>
+    <task id="LOCAL-00016" summary="CMake install rules implemented to install the libraries in the system.">
+      <created>1591455195295</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1591455195295</updated>
+    </task>
+    <task id="LOCAL-00017" summary="CMake install rules implemented to install the libraries in the system.">
+      <created>1591455334107</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1591455334107</updated>
+    </task>
+    <task id="LOCAL-00018" summary="CLI application added.">
+      <created>1591459139451</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1591459139451</updated>
+    </task>
+    <task id="LOCAL-00019" summary="CLI application added.">
+      <created>1591459162268</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1591459162269</updated>
+    </task>
+    <task id="LOCAL-00020" summary="GUI project added.">
+      <created>1591465903203</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1591465903203</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Build options added.">
+      <created>1591467402897</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1591467402897</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Update gitignore.">
+      <created>1591467880661</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1591467880661</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Update gitignore.">
+      <created>1591467986164</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1591467986164</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Merge resolve.">
+      <created>1591468105281</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1591468105281</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Update gitignore.">
+      <created>1591468169377</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1591468169377</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Update gitignore.">
+      <created>1591468225504</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1591468225504</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Exports added.">
+      <created>1591500581259</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1591500581259</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Exports added.">
+      <created>1591501169527</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1591501169528</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Exports added.">
+      <created>1591503507757</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1591503507757</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Exports added.">
+      <created>1591503974606</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1591503974606</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Some code refactoring.">
+      <created>1591538208501</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1591538208501</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="LMS fixed, Data class improvements and fixes." />
+    <MESSAGE value="Visualization module adapted for multiclass datasets and LMS bug fixes." />
+    <MESSAGE value="Data loading for binary dataset implemented as in the literature (classes 1 and -1)." />
+    <MESSAGE value="K-nearest neighbors algorithm implemented." />
+    <MESSAGE value="KNN working with regression." />
+    <MESSAGE value="Confusion matrix implemented and fixes on multi class classification support from Data template." />
+    <MESSAGE value="KMeans algorithm implemented. (Still needs testing)" />
+    <MESSAGE value="Evaluation function for KMeans implemented." />
+    <MESSAGE value="K-means option added to console interface." />
+    <MESSAGE value="Started to test K-means." />
+    <MESSAGE value="More testing on k-means." />
+    <MESSAGE value="Data deep copy function fixed." />
+    <MESSAGE value="Started to implement One-vs-All algorithm." />
+    <MESSAGE value="CMake install rules implemented to install the libraries in the system." />
+    <MESSAGE value="CLI application added." />
+    <MESSAGE value="GUI project added." />
+    <MESSAGE value="Build options added." />
+    <MESSAGE value="Merge resolve." />
+    <MESSAGE value="Update gitignore." />
+    <MESSAGE value="Exports added." />
+    <MESSAGE value="Some code refactoring." />
+    <option name="LAST_COMMIT_MESSAGE" value="Some code refactoring." />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="272" y="59" width="800" height="684" key="#Deployment" timestamp="1585603362547">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="272" y="59" width="800" height="684" key="#Deployment/0.27.1366.741@0.27.1366.741" timestamp="1585603362547" />
+    <state x="278" y="27" width="800" height="684" key="#Notifications" timestamp="1585264791300">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="278" y="27" width="800" height="684" key="#Notifications/0.27.1366.741@0.27.1366.741" timestamp="1585264791300" />
+    <state x="141" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591537586348">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="141" y="42" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1591212063224" />
+    <state x="141" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1366.741@0.27.1366.741" timestamp="1591537586348" />
+    <state x="491" y="97" width="475" height="598" key="#com.intellij.ide.util.MemberChooser" timestamp="1585605298063">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="491" y="97" width="475" height="598" key="#com.intellij.ide.util.MemberChooser/0.27.1366.741@0.27.1366.741" timestamp="1585605298063" />
+    <state x="491" y="98" width="372" height="583" key="#com.intellij.ide.util.MemberChooser/0.28.1366.740@0.28.1366.740" timestamp="1584467916603" />
+    <state x="812" y="28" key="#xdebugger.evaluate" timestamp="1584019391158">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state x="812" y="28" key="#xdebugger.evaluate/0.28.1366.740@0.28.1366.740" timestamp="1584019391158" />
+    <state x="245" y="27" width="865" height="741" key="CommitChangelistDialog2" timestamp="1585608002747">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="245" y="27" width="865" height="741" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1585608002747" />
+    <state x="245" y="28" width="865" height="740" key="CommitChangelistDialog2/0.28.1366.740@0.28.1366.740" timestamp="1584485182010" />
+    <state x="466" y="155" width="424" height="491" key="FileChooserDialogImpl" timestamp="1585607839329">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="466" y="155" width="424" height="491" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1585607839329" />
+    <state width="1324" height="178" key="GridCell.Tab.0.bottom" timestamp="1591541321851">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1324" height="187" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1591223951901" />
+    <state width="1324" height="178" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1591541321851" />
+    <state width="1320" height="434" key="GridCell.Tab.0.bottom/0.28.1366.740@0.28.1366.740" timestamp="1584499831279" />
+    <state width="1324" height="178" key="GridCell.Tab.0.center" timestamp="1591541321850">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1324" height="187" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1591223951901" />
+    <state width="1324" height="178" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1591541321850" />
+    <state width="1320" height="434" key="GridCell.Tab.0.center/0.28.1366.740@0.28.1366.740" timestamp="1584499831278" />
+    <state width="1324" height="178" key="GridCell.Tab.0.left" timestamp="1591541321850">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1324" height="187" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1591223951897" />
+    <state width="1324" height="178" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1591541321850" />
+    <state width="1320" height="434" key="GridCell.Tab.0.left/0.28.1366.740@0.28.1366.740" timestamp="1584499831278" />
+    <state width="1324" height="178" key="GridCell.Tab.0.right" timestamp="1591541321850">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1324" height="187" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1591223951901" />
+    <state width="1324" height="178" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1591541321850" />
+    <state width="1320" height="434" key="GridCell.Tab.0.right/0.28.1366.740@0.28.1366.740" timestamp="1584499831279" />
+    <state width="1320" height="137" key="GridCell.Tab.1.bottom" timestamp="1585289103728">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="137" key="GridCell.Tab.1.bottom/0.27.1366.741@0.27.1366.741" timestamp="1585289103728" />
+    <state width="1320" height="249" key="GridCell.Tab.1.bottom/0.28.1366.740@0.28.1366.740" timestamp="1584499831267" />
+    <state width="1320" height="137" key="GridCell.Tab.1.center" timestamp="1585289103728">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="137" key="GridCell.Tab.1.center/0.27.1366.741@0.27.1366.741" timestamp="1585289103728" />
+    <state width="1320" height="249" key="GridCell.Tab.1.center/0.28.1366.740@0.28.1366.740" timestamp="1584499831266" />
+    <state width="1320" height="137" key="GridCell.Tab.1.left" timestamp="1585289103728">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="137" key="GridCell.Tab.1.left/0.27.1366.741@0.27.1366.741" timestamp="1585289103728" />
+    <state width="1320" height="249" key="GridCell.Tab.1.left/0.28.1366.740@0.28.1366.740" timestamp="1584499831266" />
+    <state width="1320" height="137" key="GridCell.Tab.1.right" timestamp="1585289103728">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="137" key="GridCell.Tab.1.right/0.27.1366.741@0.27.1366.741" timestamp="1585289103728" />
+    <state width="1320" height="249" key="GridCell.Tab.1.right/0.28.1366.740@0.28.1366.740" timestamp="1584499831267" />
+    <state x="570" y="267" width="600" height="264" key="MultipleFileMergeDialog" timestamp="1591468075711">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="570" y="267" width="600" height="264" key="MultipleFileMergeDialog/0.27.1366.741@0.27.1366.741" timestamp="1591468075711" />
+    <state x="172" y="31" width="1022" height="737" key="SettingsEditor" timestamp="1591537740022">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="172" y="4" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1591212143070" />
+    <state x="172" y="31" width="1022" height="737" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1591537740022" />
+    <state x="278" y="89" width="800" height="558" key="Vcs.Push.Dialog.v2" timestamp="1591538211510">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="278" y="89" width="800" height="558" key="Vcs.Push.Dialog.v2/0.27.1366.741@0.27.1366.741" timestamp="1591538211510" />
+    <state x="278" y="90" width="800" height="558" key="Vcs.Push.Dialog.v2/0.28.1366.740@0.28.1366.740" timestamp="1584485184728" />
+    <state x="339" y="206" key="com.intellij.ide.util.TipDialog" timestamp="1585603322034">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="339" y="206" key="com.intellij.ide.util.TipDialog/0.27.1366.741@0.27.1366.741" timestamp="1585603322034" />
+    <state x="339" y="207" key="com.intellij.ide.util.TipDialog/0.28.1366.740@0.28.1366.740" timestamp="1584455492891" />
+    <state x="329" y="0" width="707" height="768" key="find.popup" timestamp="1591222267242">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="329" y="0" width="707" height="768" key="find.popup/0.0.1366.768@0.0.1366.768" timestamp="1591222267242" />
+    <state x="0" y="27" width="707" height="741" key="find.popup/0.27.1366.741@0.27.1366.741" timestamp="1585246655173" />
+    <state x="427" y="27" width="501" height="699" key="refactoring.ChangeSignatureDialog" timestamp="1585281958542">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="427" y="27" width="501" height="699" key="refactoring.ChangeSignatureDialog/0.27.1366.741@0.27.1366.741" timestamp="1585281958542" />
+    <state x="347" y="174" key="run.anything.popup" timestamp="1585606105873">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="347" y="174" key="run.anything.popup/0.27.1366.741@0.27.1366.741" timestamp="1585606105873" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/src/Data.cpp</url>
+          <line>833</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="CMakeRunConfiguration">
+        <watch expression="this-&gt;Clusterer&lt;double&gt;" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

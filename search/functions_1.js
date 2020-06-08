@@ -1,6 +1,9 @@
 var searchData=
 [
-  ['data',['Data',['../dc/d07/class_data.html#a3c777650cc0c7123906cd5ff373d3fd6',1,'Data::Data(const char *dataset, const char *pos_class=&quot;1&quot;, const char *neg_class=&quot;-1&quot;)'],['../dc/d07/class_data.html#aff3a6a7e9ff8073fbadbbd948eee3963',1,'Data::Data(size_t size, size_t dim, T val=T())'],['../dc/d07/class_data.html#ab37beb31b788e0c806211af241b86bba',1,'Data::Data()']]],
-  ['dot',['dot',['../d0/d69/class_point.html#ab1a74677723b3774be565d88af2187f8',1,'Point']]],
-  ['dtoa',['dtoa',['../d7/d6d/_utils_8hpp.html#aa2e6553d01cd9d5839b137e33d17f256',1,'dtoa(double n):&#160;Utils.cpp'],['../d6/dad/_utils_8cpp.html#a275d36ee09955d83c3c2433d10088a04',1,'dtoa(double n):&#160;Utils.cpp']]]
+  ['changexvector_365',['changeXVector',['../dc/d07/class_data.html#a9cf86608e6a02b80c9755646d7cb55fb',1,'Data']]],
+  ['clear_366',['clear',['../dc/d07/class_data.html#a3fc15f7a8c270b72af86951d6955608d',1,'Data']]],
+  ['cmd_367',['cmd',['../d3/d27/class_gnuplot.html#a07607803ede8dd5416906df0a1924fc5',1,'Gnuplot']]],
+  ['compute_368',['compute',['../db/de7/class_kernel.html#a214aeb35c89e67cf7677c61f7b0a843f',1,'Kernel']]],
+  ['copy_369',['copy',['../dc/d07/class_data.html#a1883cc58a60fcb17c50e020d234f69c1',1,'Data']]],
+  ['copyzero_370',['copyZero',['../dc/d07/class_data.html#ad94f8c8227a298b5cc0a862658f8cb99',1,'Data']]]
 ];

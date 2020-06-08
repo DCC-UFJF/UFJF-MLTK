@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['rfe',['RFE',['../d8/dd3/class_r_f_e.html',1,'']]]
+  ['onevsall_324',['OneVsAll',['../d4/d0b/class_one_vs_all.html',1,'']]]
 ];

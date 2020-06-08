@@ -1,6 +1,0 @@
-<map id="itos" name="itos">
-<area shape="rect" id="node2" href="$d0/d85/class_visualization.html#a3aa4e2d24528629a5e28eeb4b1cde57c" title="Plot the selected features in 2D. " alt="" coords="108,5,251,32"/>
-<area shape="rect" id="node3" href="$d0/d85/class_visualization.html#aa4de991872471f8628151610e674c6aa" title="Plot the selected features in 3D. " alt="" coords="108,56,251,83"/>
-<area shape="rect" id="node4" href="$d0/d85/class_visualization.html#a84789ed07fbc542c027ab43faa51b6c6" title="Plot the data in 2D with separated by the hyperplane in the solution. " alt="" coords="96,107,263,149"/>
-<area shape="rect" id="node5" href="$d0/d85/class_visualization.html#a1c667677812cb6b3381ee271a674bcad" title="Plot the data in 2D with separated by the hyperplane in the solution. " alt="" coords="96,173,263,214"/>
-</map>

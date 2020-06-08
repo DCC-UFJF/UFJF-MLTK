@@ -1,7 +1,0 @@
-<map id="Data::getSize" name="Data::getSize">
-<area shape="rect" id="node2" href="$db/de7/class_kernel.html#a686e3cd96a93d7742226dedd5beb9da7" title="norm Computes norm in dual variables. " alt="" coords="168,5,264,32"/>
-<area shape="rect" id="node3" href="$dc/d07/class_data.html#a2357782011d11c06500b1d752b9428c6" title="Insert a point to the data from another sample. " alt="" coords="156,56,276,83"/>
-<area shape="rect" id="node6" href="$dd/da7/class_validation.html#a1e9580697a164d4bfbe721f2f1589c57" title="Divide the samples in training and test. " alt="" coords="324,107,488,133"/>
-<area shape="rect" id="node4" href="$dc/d07/class_data.html#a6b91ca6585e8638f1b359a6f2bb827d7" title="Returns if the dataset is normalized. " alt="" coords="536,31,671,57"/>
-<area shape="rect" id="node5" href="$dc/d07/class_data.html#adfd307ae8437b7b2da4372eb604a2c43" title="insertFeatures Returns Data object with only features in array. " alt="" coords="335,56,477,83"/>
-</map>

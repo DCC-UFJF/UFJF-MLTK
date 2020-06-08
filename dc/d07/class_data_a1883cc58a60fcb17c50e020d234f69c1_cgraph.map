@@ -1,0 +1,11 @@
+<map id="Data::copy" name="Data::copy">
+<area shape="rect" id="node1" title="Makes a deep copy from another data object." alt="" coords="5,183,88,209"/>
+<area shape="rect" id="node2" href="$dc/d07/class_data.html#ae0d17b1d8da42012ea1ebbbff6646f35" title="Returns the dimension of the dataset." alt="" coords="171,5,267,32"/>
+<area shape="rect" id="node3" href="$dc/d07/class_data.html#a8e89a9539d3840ad44b9a0e758303523" title="Returns the features names." alt="" coords="136,56,303,83"/>
+<area shape="rect" id="node4" href="$dc/d07/class_data.html#a5d74885955fa842704ce33a0be87815e" title="Returns the vector of indexes." alt="" coords="167,107,271,133"/>
+<area shape="rect" id="node5" href="$dc/d07/class_data.html#a34fdd056f6b8b948deb1682b5d5a03d2" title="Returns the size of the dataset." alt="" coords="170,157,269,184"/>
+<area shape="rect" id="node6" href="$dc/d07/class_data.html#a47463f0afc2ea4052801d4e1dd708a08" title="Returns a class with the statistics info of the sample." alt="" coords="155,208,283,235"/>
+<area shape="rect" id="node7" href="$dc/d07/class_data.html#ab13d49c84377160673c5c38cb15d18ba" title="Return the time multiplier." alt="" coords="152,259,287,285"/>
+<area shape="rect" id="node8" href="$dc/d07/class_data.html#a5e62e69b57de5e9de6c517b9fc4b3119" title="Returns if there&#39;s a dataset loaded." alt="" coords="169,309,270,336"/>
+<area shape="rect" id="node9" href="$dc/d07/class_data.html#a3451eade784a3f934cdb14ced3e3f5c7" title="Returns if the dataset is normalized." alt="" coords="154,360,285,387"/>
+</map>

@@ -1,7 +1,19 @@
-<map id="/home/mateus558/Documents/Machine&#45;Learning&#45;Toolkit/includes/Solution.hpp" name="/home/mateus558/Documents/Machine&#45;Learning&#45;Toolkit/includes/Solution.hpp">
-<area shape="rect" id="node3" href="$dd/d8b/_kernel_8hpp.html" title="../includes/Kernel.hpp" alt="" coords="777,109,925,136"/>
-<area shape="rect" id="node7" href="$dc/d3b/_data_8hpp.html" title="Data.hpp" alt="" coords="508,184,583,211"/>
-<area shape="rect" id="node15" href="$d7/d6d/_utils_8hpp.html" title="../includes/Utils.hpp" alt="" coords="113,408,252,435"/>
-<area shape="rect" id="node14" href="$db/deb/_point_8hpp.html" title="Point.hpp" alt="" coords="399,333,476,360"/>
-<area shape="rect" id="node17" href="$d5/d1d/_statistics_8hpp.html" title="Statistics.hpp" alt="" coords="494,259,597,285"/>
+<map id="Modules/Core/include/Solution.hpp" name="Modules/Core/include/Solution.hpp">
+<area shape="rect" id="node1" title=" " alt="" coords="873,5,1020,47"/>
+<area shape="rect" id="node2" title=" " alt="" coords="671,468,729,495"/>
+<area shape="rect" id="node3" href="$dd/d8b/_kernel_8hpp.html" title=" " alt="" coords="816,95,899,121"/>
+<area shape="rect" id="node4" title=" " alt="" coords="823,244,891,271"/>
+<area shape="rect" id="node5" title=" " alt="" coords="411,393,469,420"/>
+<area shape="rect" id="node6" title=" " alt="" coords="957,169,1009,196"/>
+<area shape="rect" id="node7" href="$dc/d3b/_data_8hpp.html" title=" " alt="" coords="518,169,591,196"/>
+<area shape="rect" id="node15" href="$d7/d6d/_utils_8hpp.html" title=" " alt="" coords="158,393,231,420"/>
+<area shape="rect" id="node8" title=" " alt="" coords="282,468,337,495"/>
+<area shape="rect" id="node9" title=" " alt="" coords="731,244,799,271"/>
+<area shape="rect" id="node10" title=" " alt="" coords="213,244,288,271"/>
+<area shape="rect" id="node11" title=" " alt="" coords="5,468,75,495"/>
+<area shape="rect" id="node12" title=" " alt="" coords="544,393,616,420"/>
+<area shape="rect" id="node13" title=" " alt="" coords="363,244,429,271"/>
+<area shape="rect" id="node14" href="$db/deb/_point_8hpp.html" title=" " alt="" coords="409,319,485,345"/>
+<area shape="rect" id="node17" href="$d5/d1d/_statistics_8hpp.html" title=" " alt="" coords="504,244,605,271"/>
+<area shape="rect" id="node16" title=" " alt="" coords="163,468,226,495"/>
 </map>

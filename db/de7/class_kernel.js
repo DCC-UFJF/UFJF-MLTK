@@ -14,6 +14,6 @@ var class_kernel =
     [ "getType", "db/de7/class_kernel.html#a5a2cb0fce0eda6c67a2325f6c8958da8", null ],
     [ "norm", "db/de7/class_kernel.html#a686e3cd96a93d7742226dedd5beb9da7", null ],
     [ "setKernelMatrix", "db/de7/class_kernel.html#a3801cee0d86f25f1500d202f43a84b65", null ],
-    [ "setParam", "db/de7/class_kernel.html#a4fe711ebdbc168be1733fbb8aea6cf92", null ],
+    [ "setParam", "db/de7/class_kernel.html#a60d2e4be6d2d2619377e677021178aa4", null ],
     [ "setType", "db/de7/class_kernel.html#ad01e209470accf44ea240078f39fb127", null ]
 ];

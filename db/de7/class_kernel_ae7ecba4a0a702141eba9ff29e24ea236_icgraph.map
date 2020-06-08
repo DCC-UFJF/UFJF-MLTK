@@ -1,0 +1,4 @@
+<map id="Kernel::function" name="Kernel::function">
+<area shape="rect" id="node1" title="function Compute the kernel function between two points." alt="" coords="209,5,320,32"/>
+<area shape="rect" id="node2" href="$d1/dbb/class_dual_classifier.html#a4db588ff3339bb016cdabf7eb27b576f" title="Returns the class of a feature point based on the trained Learner." alt="" coords="5,5,161,32"/>
+</map>

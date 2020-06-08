@@ -1,6 +1,7 @@
 var class_primal_classifier =
 [
-    [ "classifierType", "db/d87/class_primal_classifier.html#ae328c091b8c3c956697163c6b92a2910", null ],
+    [ "evaluate", "db/d87/class_primal_classifier.html#a3d6ff7dd172d7632e597cb0a76d53a80", null ],
+    [ "getFormulationString", "db/d87/class_primal_classifier.html#a73f82851a3b2c54803d56fa92cc42a8b", null ],
     [ "getP", "db/d87/class_primal_classifier.html#a43de98b120ea5b096d254db8d48ebe45", null ],
     [ "getQ", "db/d87/class_primal_classifier.html#a3efea418c124ff9cf24bfefc54959ff9", null ],
     [ "setAlphaAprox", "db/d87/class_primal_classifier.html#a049f4814d38b456c80c40cee5595502b", null ],

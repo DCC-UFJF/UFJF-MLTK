@@ -1,0 +1,4 @@
+<map id="Learner::setVerbose" name="Learner::setVerbose">
+<area shape="rect" id="node1" title="Set the level of verbose." alt="" coords="251,5,389,32"/>
+<area shape="rect" id="node2" href="$df/d2f/class_feature_selection.html#aeb59d20a8711f4894f3773e78bd9b18e" title="setClassifier Set the classifier used for the FeatureSelection." alt="" coords="5,5,203,32"/>
+</map>

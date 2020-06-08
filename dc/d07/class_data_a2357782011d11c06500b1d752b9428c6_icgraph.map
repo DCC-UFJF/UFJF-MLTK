@@ -1,5 +1,4 @@
 <map id="Data::insertPoint" name="Data::insertPoint">
-<area shape="rect" id="node2" href="$dc/d07/class_data.html#a6b91ca6585e8638f1b359a6f2bb827d7" title="Returns if the dataset is normalized. " alt="" coords="385,5,520,32"/>
-<area shape="rect" id="node3" href="$dc/d07/class_data.html#adfd307ae8437b7b2da4372eb604a2c43" title="insertFeatures Returns Data object with only features in array. " alt="" coords="185,31,326,57"/>
-<area shape="rect" id="node4" href="$dd/da7/class_validation.html#a1e9580697a164d4bfbe721f2f1589c57" title="Divide the samples in training and test. " alt="" coords="173,81,337,108"/>
+<area shape="rect" id="node1" title="Insert a point to the data from another sample." alt="" coords="216,5,333,32"/>
+<area shape="rect" id="node2" href="$dd/da7/class_validation.html#a1e9580697a164d4bfbe721f2f1589c57" title="Divide the samples in training and test." alt="" coords="5,5,168,32"/>
 </map>

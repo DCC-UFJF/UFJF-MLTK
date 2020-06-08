@@ -1,0 +1,5 @@
+<map id="Learner::setMaxIterations" name="Learner::setMaxIterations">
+<area shape="rect" id="node1" title="setMaxIterations Set the max number of iterations of the Learner." alt="" coords="156,31,324,57"/>
+<area shape="rect" id="node2" href="$dd/de8/class_i_m_ap.html#aa8bf6b0d21a76d388fe81ee516b627e4" title="Function that execute the training phase of a Learner." alt="" coords="15,5,99,32"/>
+<area shape="rect" id="node3" href="$d6/da4/class_i_m_a_dual.html#aff820af6454ceeef4d23af48476d7218" title="Function that execute the training phase of a Learner." alt="" coords="5,56,108,83"/>
+</map>

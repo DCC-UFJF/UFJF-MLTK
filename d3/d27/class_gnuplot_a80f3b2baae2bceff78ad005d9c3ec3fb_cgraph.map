@@ -1,5 +1,5 @@
 <map id="Gnuplot::plot_x" name="Gnuplot::plot_x">
-<area shape="rect" id="node2" href="$d3/d27/class_gnuplot.html#a4fc34218cdfdd27a65b92eea1f1f9e84" title="Gnuplot::plotfile_x" alt="" coords="164,5,291,32"/>
-<area shape="rect" id="node3" href="$d3/d27/class_gnuplot.html#a07607803ede8dd5416906df0a1924fc5" title="send a command to gnuplot " alt="" coords="339,5,439,32"/>
-<area shape="rect" id="node4" href="$d3/d27/class_gnuplot.html#a356d2faaa79f08d13fec9718b776b28d" title="sets terminal type to terminal_std " alt="" coords="487,5,645,32"/>
+<area shape="rect" id="node1" title="from std::vector" alt="" coords="5,5,112,32"/>
+<area shape="rect" id="node2" href="$d3/d27/class_gnuplot.html#a4fc34218cdfdd27a65b92eea1f1f9e84" title=" " alt="" coords="160,5,283,32"/>
+<area shape="rect" id="node3" href="$d3/d27/class_gnuplot.html#a07607803ede8dd5416906df0a1924fc5" title="send a command to gnuplot" alt="" coords="331,5,429,32"/>
 </map>

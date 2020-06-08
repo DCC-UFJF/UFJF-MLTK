@@ -1,3 +1,4 @@
 <map id="DualClassifier::getKernelType" name="DualClassifier::getKernelType">
-<area shape="rect" id="node2" href="$db/de7/class_kernel.html#a5a2cb0fce0eda6c67a2325f6c8958da8" title="getType Returns the kernel type used in the kernel computations. " alt="" coords="249,5,364,32"/>
+<area shape="rect" id="node1" title="Get the type of the kernel." alt="" coords="5,5,196,32"/>
+<area shape="rect" id="node2" href="$db/de7/class_kernel.html#a5a2cb0fce0eda6c67a2325f6c8958da8" title="getType Returns the kernel type used in the kernel computations." alt="" coords="244,5,355,32"/>
 </map>

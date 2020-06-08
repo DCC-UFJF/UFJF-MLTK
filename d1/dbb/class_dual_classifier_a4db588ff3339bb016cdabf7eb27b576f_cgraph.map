@@ -1,0 +1,4 @@
+<map id="DualClassifier::evaluate" name="DualClassifier::evaluate">
+<area shape="rect" id="node1" title="Returns the class of a feature point based on the trained Learner." alt="" coords="5,5,161,32"/>
+<area shape="rect" id="node2" href="$db/de7/class_kernel.html#ae7ecba4a0a702141eba9ff29e24ea236" title="function Compute the kernel function between two points." alt="" coords="209,5,320,32"/>
+</map>

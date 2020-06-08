@@ -1,13 +1,26 @@
 <map id="Learner&lt; T &gt;" name="Learner&lt; T &gt;">
-<area shape="rect" id="node2" href="$d6/dba/class_classifier.html" title="Classifier\&lt; T \&gt;" alt="" coords="151,183,260,209"/>
-<area shape="rect" id="node3" href="$d1/dbb/class_dual_classifier.html" title="DualClassifier\&lt; T \&gt;" alt="" coords="313,107,449,133"/>
-<area shape="rect" id="node8" href="$db/d87/class_primal_classifier.html" title="PrimalClassifier\&lt; T \&gt;" alt="" coords="308,259,455,285"/>
-<area shape="rect" id="node4" href="$d6/da4/class_i_m_a_dual.html" title="IMADual\&lt; T \&gt;" alt="" coords="563,5,668,32"/>
-<area shape="rect" id="node5" href="$d7/db4/class_perceptron_dual.html" title="Wrapper for the implementation of the Perceptron dual algorithm. " alt="" coords="543,56,687,83"/>
-<area shape="rect" id="node6" href="$d6/d4e/class_perceptron_fixed_margin_dual.html" title="Wrapper for the implementation of the Perceptron dual with fixed margin algorithm. " alt="" coords="508,107,723,133"/>
-<area shape="rect" id="node7" href="$d8/de4/class_s_m_o.html" title="SMO\&lt; T \&gt;" alt="" coords="573,157,657,184"/>
-<area shape="rect" id="node9" href="$dd/de8/class_i_m_ap.html" title="Wrapper for the implementation of the Incremental Margin Algorithm primal. " alt="" coords="573,208,658,235"/>
-<area shape="rect" id="node10" href="$df/db6/class_i_m_ap_fixed_margin.html" title="Wrapper for the implementation of the Incremental Margin Algorithm primal with fixed margin..." alt="" coords="537,259,693,285"/>
-<area shape="rect" id="node11" href="$d5/d40/class_perceptron_fixed_margin_primal.html" title="Wrapper for the implementation of the Perceptron primal with fixed margin algorithm. " alt="" coords="503,309,728,336"/>
-<area shape="rect" id="node12" href="$d8/d34/class_perceptron_primal.html" title="Wrapper for the implementation of the Perceptron primal algorithm. " alt="" coords="538,360,693,387"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,397,101,424"/>
+<area shape="rect" id="node2" href="$d6/dba/class_classifier.html" title=" " alt="" coords="152,296,257,323"/>
+<area shape="rect" id="node15" href="$d5/df7/class_clusterer.html" title=" " alt="" coords="153,372,257,399"/>
+<area shape="rect" id="node17" href="$d5/d72/class_ensemble.html" title=" " alt="" coords="150,423,259,449"/>
+<area shape="rect" id="node20" href="$dc/d55/class_regressor.html" title=" " alt="" coords="149,473,260,500"/>
+<area shape="rect" id="node3" href="$d1/dbb/class_dual_classifier.html" title=" " alt="" coords="319,107,449,133"/>
+<area shape="rect" id="node8" href="$d4/d0b/class_one_vs_all.html" title=" " alt="" coords="331,259,437,285"/>
+<area shape="rect" id="node9" href="$db/d87/class_primal_classifier.html" title=" " alt="" coords="313,309,455,336"/>
+<area shape="rect" id="node4" href="$d6/da4/class_i_m_a_dual.html" title=" " alt="" coords="568,5,671,32"/>
+<area shape="rect" id="node5" href="$d7/db4/class_perceptron_dual.html" title="Wrapper for the implementation of the Perceptron dual algorithm." alt="" coords="549,56,690,83"/>
+<area shape="rect" id="node6" href="$d6/d4e/class_perceptron_fixed_margin_dual.html" title="Wrapper for the implementation of the Perceptron dual with fixed margin algorithm." alt="" coords="514,107,725,133"/>
+<area shape="rect" id="node7" href="$d8/de4/class_s_m_o.html" title=" " alt="" coords="578,157,661,184"/>
+<area shape="rect" id="node10" href="$dd/de8/class_i_m_ap.html" title="Wrapper for the implementation of the Incremental Margin Algorithm primal." alt="" coords="578,208,661,235"/>
+<area shape="rect" id="node11" href="$df/db6/class_i_m_ap_fixed_margin.html" title="Wrapper for the implementation of the Incremental Margin Algorithm primal with fixed margin." alt="" coords="543,259,696,285"/>
+<area shape="rect" id="node12" href="$d5/d00/class_k_n_n.html" title=" " alt="" coords="579,309,660,336"/>
+<area shape="rect" id="node13" href="$d5/d40/class_perceptron_fixed_margin_primal.html" title="Wrapper for the implementation of the Perceptron primal with fixed margin algorithm." alt="" coords="508,360,731,387"/>
+<area shape="rect" id="node14" href="$d8/d34/class_perceptron_primal.html" title="Wrapper for the implementation of the Perceptron primal algorithm." alt="" coords="543,411,695,437"/>
+<area shape="rect" id="node16" href="$d1/dd8/class_k_means.html" title=" " alt="" coords="334,372,434,399"/>
+<area shape="rect" id="node18" href="$da/df7/class_primal_committee.html" title=" " alt="" coords="308,423,460,449"/>
+<area shape="rect" id="node19" href="$d0/d24/class_primal_perc_committee.html" title=" " alt="" coords="530,461,709,488"/>
+<area shape="rect" id="node21" href="$d2/d6c/class_dual_regressor.html" title=" " alt="" coords="315,473,453,500"/>
+<area shape="rect" id="node22" href="$d3/da5/class_primal_regressor.html" title=" " alt="" coords="310,524,458,551"/>
+<area shape="rect" id="node23" href="$d6/db9/class_k_n_n_regressor.html" title=" " alt="" coords="549,512,689,539"/>
+<area shape="rect" id="node24" href="$d8/d2e/class_l_m_s_primal.html" title="Wrapper for the implementation of the Least Mean Square primal algorithm." alt="" coords="561,563,678,589"/>
 </map>

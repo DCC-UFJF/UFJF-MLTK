@@ -1,6 +1,5 @@
 var class_classifier =
 [
-    [ "classifierType", "d6/dba/class_classifier.html#ab40f42f957ec50939bd9a6b0cd5d1786", null ],
     [ "getSolution", "d6/dba/class_classifier.html#a015ba93eb1d31d36b336245f1dac9ce5", null ],
     [ "getSolutionRef", "d6/dba/class_classifier.html#a4845fd932adb55becf78bfa4fccbea59", null ],
     [ "setGamma", "d6/dba/class_classifier.html#a8ce9a9a19a9deceb12e39e54ef595650", null ],

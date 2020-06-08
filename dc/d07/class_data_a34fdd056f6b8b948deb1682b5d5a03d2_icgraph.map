@@ -1,0 +1,8 @@
+<map id="Data::getSize" name="Data::getSize">
+<area shape="rect" id="node1" title="Returns the size of the dataset." alt="" coords="381,81,480,108"/>
+<area shape="rect" id="node2" href="$dc/d07/class_data.html#a1883cc58a60fcb17c50e020d234f69c1" title="Makes a deep copy from another data object." alt="" coords="233,5,316,32"/>
+<area shape="rect" id="node4" href="$dc/d07/class_data.html#a2357782011d11c06500b1d752b9428c6" title="Insert a point to the data from another sample." alt="" coords="216,56,333,83"/>
+<area shape="rect" id="node5" href="$dd/da7/class_validation.html#a1e9580697a164d4bfbe721f2f1589c57" title="Divide the samples in training and test." alt="" coords="5,81,168,108"/>
+<area shape="rect" id="node6" href="$db/de7/class_kernel.html#a686e3cd96a93d7742226dedd5beb9da7" title="norm Computes norm in dual variables." alt="" coords="227,157,322,184"/>
+<area shape="rect" id="node3" href="$d6/d26/class_a_o_s.html#a855c463e121f6b190f42ea1950c6d2dd" title="Function that executes the feature selection phase." alt="" coords="15,5,158,32"/>
+</map>
